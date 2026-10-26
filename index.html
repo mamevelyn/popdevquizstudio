@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#17364b">
+  <meta name="description" content="Build, personalize, import, and take quizzes—without Adobe Flash.">
+  <title>POPDEV Quiz Studio</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./extras.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">Q<span>✦</span></div>
+        <div><strong>POPDEV<span> STUDIO</span></strong><small>Modern quiz creator</small></div>
+      </div>
+      <div class="sidebar-caption">WORKSPACE</div>
+      <nav class="nav" aria-label="Main navigation">
+        <button class="nav-link active" data-route="bank"><span class="nav-icon">▦</span> Question Bank</button>
+        <button class="nav-link" data-route="practice"><span class="nav-icon">▷</span> Take a Quiz</button>
+        <button class="nav-link" data-route="design"><span class="nav-icon">◈</span> Design Studio</button>
+        <button class="nav-link" data-route="reports"><span class="nav-icon">▤</span> Results & Scores</button>
+      </nav>
+      <div class="sidebar-tip">
+        <span class="tip-dot"></span>
+        <strong>No Flash required</strong>
+        <p>Customize quiz designs, import Excel questions, and practice on any modern browser.</p>
+      </div>
+      <div class="sidebar-bottom"><span class="status-dot"></span> Browser-based · Private workspace</div>
+    </aside>
+    <main class="main">
+      <header class="topbar">
+        <div class="breadcrumb">My workspace <span>/</span> <strong id="current-route">Question Bank</strong></div>
+        <div class="top-actions">
+          <span class="top-date">QUIZ STUDIO <span>2026</span></span>
+          <a class="btn btn-outline btn-small offline-download" href="./POPDEV_Quiz_Studio_Offline.zip" download>↓ Offline Copy</a>
+          <button class="btn btn-primary btn-small" id="top-import">↥ Import Questions</button>
+        </div>
+      </header>
+      <div class="page-content">
+        <section class="view active" id="view-bank">
+          <div class="hero">
+            <div class="hero-text">
+              <div class="eyebrow"><span class="gold-dot"></span> YOUR DIGITAL REVIEWER</div>
+              <h1>Make every question <em>count.</em></h1>
+              <p>All your reviewer questions, in one beautifully simple place. Edit, import, and turn them into an interactive quiz whenever you're ready.</p>
+              <div class="hero-actions">
+                <button class="btn btn-light" data-go="practice">▶ Start a Quiz</button>
+                <button class="btn btn-hero-outline" id="hero-import">↥ Import Excel</button>
+              </div>
+            </div>
+            <div class="hero-visual" aria-hidden="true">
+              <div class="mock-question">
+                <div class="mock-top"><span>QUIZ PREVIEW</span><span>01 / 20</span></div>
+                <div class="mock-line long"></div><div class="mock-line"></div>
+                <div class="mock-answer">Your answer here <span>↗</span></div>
+                <div class="mock-progress"><span></span></div>
+              </div>
+              <div class="float-star star1">✦</div><div class="float-star star2">✧</div>
+            </div>
+          </div>
+          <div class="stats-grid">
+            <div class="stat-card"><div class="stat-icon pale-blue">▤</div><div><small>TOTAL QUESTIONS</small><div class="stat-number" id="stat-total">—</div></div><span class="stat-foot">Ready to practice</span></div>
+            <div class="stat-card"><div class="stat-icon pale-green">◫</div><div><small>REVIEWER SETS</small><div class="stat-number" id="stat-sets">—</div></div><span class="stat-foot">Organized by set</span></div>
+            <div class="stat-card"><div class="stat-icon pale-amber">↻</div><div><small>QUIZ ATTEMPTS</small><div class="stat-number" id="stat-attempts">0</div></div><span class="stat-foot">Completed attempts</span></div>
+            <div class="stat-card"><div class="stat-icon pale-green">✓</div><div><small>LATEST SCORE</small><div class="stat-number" id="stat-latest">—</div></div><span class="stat-foot">Most recent attempt</span></div>
+            <div class="stat-card"><div class="stat-icon pale-amber">★</div><div><small>BEST SCORE</small><div class="stat-number" id="stat-best">—</div></div><span class="stat-foot">Highest percentage</span></div>
+            <div class="stat-card"><div class="stat-icon pale-blue">▥</div><div><small>AVERAGE SCORE</small><div class="stat-number" id="stat-average">—</div></div><span class="stat-foot">Across all attempts</span></div>
+          </div>
+          <div class="panel dashboard-attempts-panel">
+            <div class="section-heading">
+              <div><span class="section-kicker">SCORE TRACKER</span><h2>Recent Quiz Attempts</h2><p>See the score earned on every completed practice attempt.</p></div>
+              <button class="btn btn-outline" data-go="reports">View Full History →</button>
+            </div>
+            <div id="dashboard-attempt-list"></div>
+          </div>
+          <div class="panel">
+            <div class="section-heading">
+              <div><span class="section-kicker">MANAGE CONTENT</span><h2>Question Library</h2><p>Find, revise, or add items. All changes save in this browser.</p></div>
+              <button class="btn btn-primary" id="add-question">＋ Add Question</button>
+            </div>
+            <div class="filter-row">
+              <label class="search-control"><span>⌕</span><input id="bank-search" placeholder="Search questions or answers..." aria-label="Search questions"></label>
+              <select id="bank-set-filter" aria-label="Filter by reviewer set"></select>
+              <span class="result-count" id="bank-count"></span>
+            </div>
+            <div id="question-list" class="question-list"></div>
+            <div class="list-footer"><span id="page-label"></span><div class="pagination"><button class="btn btn-ghost btn-small" id="page-prev">← Previous</button><button class="btn btn-ghost btn-small" id="page-next">Next →</button></div></div>
+          </div>
+        </section>
+        <section class="view" id="view-practice">
+          <div class="section-intro"><span class="section-kicker">PRACTICE MODE</span><h1>Ready for a quick <em>knowledge check?</em></h1><p>Choose your quiz settings, then focus on one question at a time.</p></div>
+          <div id="quiz-setup" class="setup-grid">
+            <div class="panel setup-panel">
+              <div class="panel-mini-title">01 / QUIZ SETTINGS</div><h2>Set up your quiz</h2>
+              <label class="field-label" for="practice-set">Question set</label><select id="practice-set"></select>
+              <label class="field-label" for="practice-count">Number of questions</label><input type="number" min="1" max="850" id="practice-count" value="20">
+              <label class="field-label" for="practice-timer">Time limit</label><select id="practice-timer"><option value="0">No time limit</option><option value="5">5 minutes</option><option value="10">10 minutes</option><option value="15" selected>15 minutes</option><option value="30">30 minutes</option><option value="60">60 minutes</option></select>
+              <label class="switch-row"><span><strong>Shuffle questions</strong><small>Different order each time</small></span><input type="checkbox" id="practice-shuffle" checked><span class="switch"></span></label>
+              <button class="btn btn-primary btn-wide" id="start-quiz">Start Quiz →</button>
+              <p class="input-helper" id="setup-availability"></p>
+            </div>
+            <div class="setup-info">
+              <div class="setup-decor">✳</div>
+              <span class="section-kicker">HOW IT WORKS</span><h3>A little practice today. More confidence tomorrow.</h3>
+              <div class="step-line"><span>01</span><div><strong>Pick your reviewer</strong><p>Choose a set or combine everything in the question bank.</p></div></div>
+              <div class="step-line"><span>02</span><div><strong>Check and review instantly</strong><p>Press Enter once to reveal whether your answer is correct and see the correct term.</p></div></div>
+              <div class="step-line"><span>03</span><div><strong>Track every attempt</strong><p>Press Enter again to continue. Your completed quiz score appears on the dashboard.</p></div></div>
+            </div>
+          </div>
+          <div id="quiz-active" class="hidden">
+            <div class="quiz-status"><div><strong id="quiz-position">Question 1 of 20</strong><small id="quiz-subtitle">Fill in the blank</small></div><div class="quiz-status-right"><span class="live-score" id="quiz-live-score">0 correct · 0 reviewed</span><div class="timer-pill" id="quiz-clock">⏱ 15:00</div></div></div>
+            <div class="progress-track"><div id="quiz-progress" class="progress-bar"></div></div>
+            <div class="question-stage">
+              <div class="stage-kicker" id="stage-source">FILL IN THE BLANK</div>
+              <div class="stage-question" id="stage-question"></div>
+              <div id="quiz-fill-answer"><label class="field-label" for="quiz-answer">Your answer</label><input id="quiz-answer" class="answer-input" autocomplete="off" placeholder="Type your answer here...">
+              <p class="stage-note">Press Enter to check. Capitalization and punctuation do not affect scoring.</p></div>
+              <div id="quiz-mcq-answer" class="hidden"><div class="field-label">Choose the best answer</div><div id="quiz-choices" class="quiz-choices" role="radiogroup" aria-label="Answer choices"></div></div>
+              <div id="quiz-feedback" class="instant-feedback hidden" role="status" aria-live="polite"></div>
+              <div class="stage-actions"><button class="btn btn-ghost" id="quit-quiz">Exit Quiz</button><div class="spacer"></div><button class="btn btn-ghost" id="quiz-back">← Previous</button><button class="btn btn-primary" id="quiz-next">Check Answer ✓</button></div>
+            </div>
+          </div>
+          <div id="quiz-finished" class="hidden"></div>
+        </section>
+        <section class="view" id="view-design">
+          <div class="section-intro"><span class="section-kicker">MAKE IT YOURS</span><h1>Your quiz, your <em>signature look.</em></h1><p>Change themes instantly. No Flash player, downloads, or complicated design editor needed.</p></div>
+          <div class="design-grid">
+            <div class="panel design-options">
+              <div class="panel-mini-title">01 / APPEARANCE</div><h2>Choose a theme</h2>
+              <div class="theme-options" id="theme-options">
+                <button class="theme-choice selected" data-theme="ocean"><span class="swatch-set"><i style="background:#17364b"></i><i style="background:#328c95"></i><i style="background:#f6c466"></i></span><strong>Ocean Blue</strong><small>Classic & polished</small></button>
+                <button class="theme-choice" data-theme="forest"><span class="swatch-set"><i style="background:#1f4338"></i><i style="background:#69ac8a"></i><i style="background:#f0cf7d"></i></span><strong>Forest Green</strong><small>Calm & refreshing</small></button>
+                <button class="theme-choice" data-theme="sunset"><span class="swatch-set"><i style="background:#713e4e"></i><i style="background:#e48a6b"></i><i style="background:#f9d19e"></i></span><strong>Warm Sunset</strong><small>Bright & welcoming</small></button>
+                <button class="theme-choice" data-theme="lavender"><span class="swatch-set"><i style="background:#45385c"></i><i style="background:#9986cd"></i><i style="background:#c5dbde"></i></span><strong>Soft Lavender</strong><small>Creative & elegant</small></button>
+              </div>
+              <div class="divider"></div>
+              <label class="field-label" for="design-title">Quiz heading</label><input id="design-title" value="POPDEV Knowledge Challenge">
+              <label class="field-label" for="design-accent">Custom accent color</label><div class="color-row"><input type="color" id="design-accent" value="#328c95"><span>Choose any accent color you like</span></div>
+              <button class="btn btn-primary btn-wide" id="save-design">✓ Save Design</button>
+              <button class="btn btn-ghost btn-wide" id="reset-design">Restore default theme</button>
+            </div>
+            <div class="design-preview-wrap"><div class="preview-label"><span>LIVE PREVIEW</span><span class="live-dot"></span></div>
+              <div class="live-preview">
+                <div class="preview-header"><span class="preview-brand">✦ POPDEV QUIZ</span><span>QUESTION 01 / 20</span></div>
+                <div class="preview-pill">FILL IN THE BLANK</div>
+                <h3 id="preview-heading">POPDEV Knowledge Challenge</h3>
+                <p class="preview-question">The study of human populations, including their size, composition, and distribution, is called _____.</p>
+                <div class="preview-input">Type your answer here...</div>
+                <div class="preview-bottom"><div class="preview-mini-bar"><span></span></div><button class="preview-next" type="button">Next Question →</button></div>
+              </div>
+              <p class="preview-footnote">The colors you choose also apply to the quiz-taking screen.</p>
+            </div>
+          </div>
+        </section>
+        <section class="view" id="view-reports">
+          <div class="section-intro"><span class="section-kicker">YOUR PROGRESS</span><h1>See how far you've <em>come.</em></h1><p>Your past quiz attempts are saved privately in this browser.</p></div>
+          <div class="stats-grid report-stats"><div class="stat-card"><div class="stat-icon pale-blue">▣</div><div><small>QUIZZES TAKEN</small><div class="stat-number" id="report-count">0</div></div></div><div class="stat-card"><div class="stat-icon pale-green">★</div><div><small>AVERAGE SCORE</small><div class="stat-number" id="report-average">—</div></div></div><div class="stat-card"><div class="stat-icon pale-amber">↗</div><div><small>BEST SCORE</small><div class="stat-number" id="report-best">—</div></div></div></div>
+          <div class="panel"><div class="section-heading"><div><span class="section-kicker">HISTORY</span><h2>Recent Quiz Attempts</h2></div><button class="btn btn-outline" id="export-results">↓ Export Results CSV</button></div><div id="report-list"></div></div>
+          <div class="panel backup-panel"><div><h3>Keep a copy of your work</h3><p>Your edits and results are stored on this device. Download a backup to transfer them to another computer or browser.</p></div><button class="btn btn-primary" id="download-backup">↓ Download Full Backup</button></div>
+        </section>
+      </div>
+      <footer class="app-footer"><span>Made for easier learning · Flash-free quiz creation</span><span>Edits stay in this browser unless you export a backup.</span></footer>
+    </main>
+  </div>
+
+  <dialog id="question-dialog" class="modal">
+    <form method="dialog" id="question-form"><div class="modal-head"><div><span class="section-kicker">QUESTION EDITOR</span><h2 id="question-dialog-title">Add a question</h2></div><button class="close-modal" type="button" data-close="question-dialog" aria-label="Close">×</button></div>
+      <label class="field-label" for="edit-type">Question type</label><select id="edit-type"><option value="fill">Fill in the Blank</option><option value="mcq">Multiple Choice</option></select>
+      <label class="field-label" for="edit-question">Question</label><textarea id="edit-question" rows="4" required placeholder="Write your question here, including _____ if needed."></textarea>
+      <div id="edit-fill-answer"><label class="field-label" for="edit-answer">Correct answer</label><input id="edit-answer" required placeholder="1–3 words, e.g. Demography">
+      <p class="input-helper">You may enter alternative accepted answers separated by a vertical bar ( | ).</p></div>
+      <div id="edit-mcq-options" class="hidden">
+        <label class="field-label" for="edit-option-a">Option A</label><input id="edit-option-a" placeholder="First answer choice">
+        <label class="field-label" for="edit-option-b">Option B</label><input id="edit-option-b" placeholder="Second answer choice">
+        <label class="field-label" for="edit-option-c">Option C</label><input id="edit-option-c" placeholder="Third answer choice">
+        <label class="field-label" for="edit-option-d">Option D</label><input id="edit-option-d" placeholder="Fourth answer choice">
+        <label class="field-label" for="edit-mcq-correct">Correct option</label><select id="edit-mcq-correct"><option value="0">A</option><option value="1">B</option><option value="2">C</option><option value="3">D</option></select>
+      </div>
+      <label class="field-label" for="edit-set">Set or reviewer name</label><input id="edit-set" placeholder="Example: Set 1">
+      <div class="modal-actions"><button class="btn btn-ghost" type="button" data-close="question-dialog">Cancel</button><button class="btn btn-primary" type="submit">Save Question</button></div></form>
+  </dialog>
+  <dialog id="import-dialog" class="modal import-modal">
+    <div class="modal-head"><div><span class="section-kicker">BULK IMPORT</span><h2>Bring in your questions</h2></div><button class="close-modal" type="button" data-close="import-dialog" aria-label="Close">×</button></div>
+    <p class="modal-copy">Import your existing QuizCreator Excel file or a simple Question / Answer spreadsheet. Questions beyond item 20 are read automatically.</p>
+    <label class="upload-zone" id="upload-zone" for="file-upload"><span class="upload-icon">↥</span><strong>Choose an Excel, CSV, or JSON file</strong><small>.xlsx, QuizCreator .xls, .csv, .tsv, or a Quiz Studio backup</small><input id="file-upload" type="file" accept=".xlsx,.xls,.csv,.tsv,.json"></label>
+    <div class="import-formats"><span>SUPPORTED</span><span class="format-pill">QuizCreator 20-row template</span><span class="format-pill">Question / Answer columns</span><span class="format-pill">850-item answer key</span></div>
+    <label class="checkbox-line"><input type="checkbox" id="import-replace"><span>Replace my current question bank with the imported questions</span></label>
+    <div class="import-feedback" id="import-feedback" aria-live="polite"></div>
+    <div class="modal-actions"><button class="btn btn-ghost" type="button" data-close="import-dialog">Close</button></div>
+  </dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="./jszip.min.js"></script>
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
