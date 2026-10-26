@@ -3,7 +3,7 @@
   const BANK_KEY = 'popdev_studio_bank_v1';
   const HISTORY_KEY = 'popdev_studio_history_v1';
   const THEME_KEY = 'popdev_studio_theme_v1';
-  const COACH_MIGRATION_KEY = 'popdev_studio_coach_sets_20261026_v1';
+  const PRIORITY_MIGRATION_KEY = 'popdev_studio_nfot_priority_20261027_v1';
   const THEMES = {
     ocean: { ink: '#17364b', accent: '#328c95', gold: '#f6c466' },
     forest: { ink: '#1f4338', accent: '#478c70', gold: '#f0cf7d' },
@@ -20,26 +20,29 @@
   const tidy = s => String(s == null ? '' : s).replace(/\s+/g, ' ').trim();
   const formatDate = s => new Date(s).toLocaleString('en-PH', { year: 'numeric', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
   const validQ = q => q && typeof q.question === 'string' && q.question.trim() && typeof q.answer === 'string' && q.answer.trim();
-  const sanitiseQ = q => ({ id: String(q.id || newId()), question: String(q.question).trim(), answer: String(q.answer).trim(), type: q.type === 'mcq' && Array.isArray(q.options) && q.options.length === 4 ? 'mcq' : 'fill', options: Array.isArray(q.options) ? q.options.slice(0,4).map(v=>String(v)) : [], set: String(q.set || 'Imported').trim().slice(0, 90), source: String(q.source || '').trim().slice(0, 120) });
+  const sanitiseQ = q => ({ id: String(q.id || newId()), question: String(q.question).trim(), answer: String(q.answer).trim(), acceptedAnswers: Array.isArray(q.acceptedAnswers) && q.acceptedAnswers.length ? q.acceptedAnswers.map(v=>String(v)) : String(q.answer).split('|').map(v=>v.trim()).filter(Boolean), type: q.type === 'mcq' && Array.isArray(q.options) && q.options.length === 4 ? 'mcq' : 'fill', options: Array.isArray(q.options) ? q.options.slice(0,4).map(v=>String(v)) : [], set: String(q.set || 'Imported').trim().slice(0, 90), source: String(q.source || '').trim().slice(0, 120) });
   const storedBank = readStorage(BANK_KEY, null);
-  let bank = (Array.isArray(storedBank) ? storedBank : seed).filter(validQ).map(sanitiseQ);
-  // Existing visitors already have a browser-local bank. Add the new official
-  // Sets 7–9 exactly once, while retaining their edits, custom questions,
-  // original Sets 1–6, scores, and attempts without replacing storage.
-  if (Array.isArray(storedBank) && !readStorage(COACH_MIGRATION_KEY, false)) {
-    const knownIds = new Set(bank.map(q => q.id));
-    const knownQA = new Set(bank.map(q => normalize(q.question) + '|' + normalize(q.answer)));
-    for (const item of seed) {
-      if (!String(item.id || '').startsWith('coach-') || !validQ(item)) continue;
-      const key = normalize(item.question) + '|' + normalize(item.answer);
-      if (knownIds.has(item.id) || knownQA.has(key)) continue;
-      bank.push(sanitiseQ(item));
-      knownIds.add(item.id); knownQA.add(key);
+  let bank;
+  if (Array.isArray(storedBank) && readStorage(PRIORITY_MIGRATION_KEY, false)) {
+    bank = storedBank.filter(validQ).map(sanitiseQ);
+  } else {
+    // Replace only the outdated official reviewer sets, preserving manually
+    // added/imported questions and all separately stored score/attempt history.
+    bank = seed.filter(validQ).map(sanitiseQ);
+    const knownQuestions = new Set(bank.map(q => normalize(q.question)));
+    if (Array.isArray(storedBank)) {
+      for (const item of storedBank.filter(validQ)) {
+        if (/^(?:seed-\d+|coach-\d+|nfot26-\d+)$/.test(String(item.id || ''))) continue;
+        const key = normalize(item.question);
+        if (knownQuestions.has(key)) continue;
+        bank.push(sanitiseQ(item));
+        knownQuestions.add(key);
+      }
     }
     try {
       localStorage.setItem(BANK_KEY, JSON.stringify(bank));
-      localStorage.setItem(COACH_MIGRATION_KEY, 'true');
-    } catch { /* The new sets remain available in memory this session. */ }
+      localStorage.setItem(PRIORITY_MIGRATION_KEY, 'true');
+    } catch { /* The correct bank is still ready in memory this session. */ }
   }
   let history = readStorage(HISTORY_KEY, []);
   if (!Array.isArray(history)) history = [];
@@ -155,7 +158,7 @@
     if (type === 'mcq' && (options.some(v=>!v) || new Set(options.map(normalize)).size !== 4)) return toast('Please enter four different answer choices.');
     if (editingId) {
       const i = bank.findIndex(q => q.id === editingId);
-      if (i >= 0) bank[i] = Object.assign({}, bank[i], { question, answer, type, options, set });
+      if (i >= 0) bank[i] = Object.assign({}, bank[i], { question, answer, acceptedAnswers: [answer], type, options, set });
     } else bank.unshift({ id: newId(), question, answer, type, options, set, source: 'Manually added' });
     el('question-dialog').close(); persistBank(); toast('Question saved successfully.');
   }
@@ -195,10 +198,11 @@
     const q = active.questions[active.index];
     const reviewed = active.checked[active.index];
     el('quiz-position').textContent = `Question ${active.index + 1} of ${active.questions.length}`;
-    el('quiz-subtitle').textContent = q.type === 'mcq' ? 'Multiple choice' : 'Fill in the blank';
+    const hasBlank = /_{3,}/.test(q.question);
+    el('quiz-subtitle').textContent = q.type === 'mcq' ? 'Multiple choice' : hasBlank ? 'Fill in the blank' : 'Short answer';
     el('quiz-progress').style.width = Math.round(((active.index+1)/active.questions.length)*100) + '%';
     const mcq = q.type === 'mcq';
-    el('stage-source').textContent = (q.set || 'REVIEWER') + (mcq ? ' · MULTIPLE CHOICE' : ' · FILL IN THE BLANK');
+    el('stage-source').textContent = (q.set || 'REVIEWER') + (mcq ? ' · MULTIPLE CHOICE' : hasBlank ? ' · FILL IN THE BLANK' : ' · IDENTIFICATION');
     el('stage-question').textContent = q.question;
     el('quiz-fill-answer').classList.toggle('hidden', mcq);
     el('quiz-mcq-answer').classList.toggle('hidden', !mcq);
@@ -263,7 +267,8 @@
   }
   function acceptedAnswer(q, attempt) {
     const given = normalize(attempt);
-    return !!given && String(q.answer).split('|').some(answer => given === normalize(answer));
+    const variants = Array.isArray(q.acceptedAnswers) && q.acceptedAnswers.length ? q.acceptedAnswers : String(q.answer).split('|');
+    return !!given && variants.some(answer => given === normalize(answer));
   }
   function finishQuiz(reason = '') {
     if (!active) return;
@@ -462,11 +467,12 @@
     el('import-dialog').showModal();
   }
   function wire() {
-    document.querySelectorAll('[data-coach-set]').forEach(button=>button.addEventListener('click',()=>{
+    document.querySelectorAll('[data-priority-set]').forEach(button=>button.addEventListener('click',()=>{
       go('practice');
-      el('practice-set').value = button.dataset.coachSet;
-      el('practice-count').value = 150;
-      // A full 150-item mastery round should not end after the default 15 minutes.
+      const chosenSet = button.dataset.prioritySet;
+      el('practice-set').value = chosenSet;
+      el('practice-count').value = bank.filter(q => q.set === chosenSet).length;
+      // Let learners work through full intensive sets at their own pace.
       el('practice-timer').value = '0';
       showAvailability();
     }));

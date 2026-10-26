@@ -1,0 +1,9 @@
+{
+  "name": "POPDEV Quiz Studio",
+  "short_name": "Quiz Studio",
+  "description": "Flash-free interactive question bank and quiz maker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8f9",
+  "theme_color": "#17364b"
+}

@@ -6,9 +6,12 @@ No Adobe Flash Player or internet connection is needed.
 1. Extract ALL files from this ZIP into one folder.
 2. Double-click index.html to open it in Google Chrome or Microsoft Edge.
 3. Choose Question Bank, Take a Quiz, Design Studio, or Results & Scores.
-4. All 1,300 reviewer questions are included: the original 850 (Sets 1-6)
-   plus 450 intensive term-identification questions (Sets 7-9).
-5. Select Set 7, Set 8, or Set 9 to practice the 150-term coach challenge.
+4. All 1,301 questions from the updated NFOT 2026 Priority Mixed Review
+   Sets Word file are included in 9 sets. The wording and answer text are
+   preserved from the supplied reviewer; only item numbers were removed.
+5. Set 1 focuses on basic terms, Set 2 on essential concepts and facts,
+   Sets 3-5 on broader reference recall, and Sets 6-9 on detailed recall.
+   Sets 1-8 contain 150 questions each; Set 9 contains 101.
 
 IMPORT EXCEL:
 - Click Import Questions.
@@ -29,7 +32,9 @@ SAVE YOUR WORK:
 - Keep backup files safely. Clearing browser storage can erase local changes.
 
 QUIZ ANSWERS:
-- Matching ignores capitalization and punctuation.
+- Matching ignores capitalization and punctuation. Obvious alternatives
+  such as a multiple-choice letter and its written option can be accepted,
+  while the correct answer is always displayed exactly as in the reviewer.
 - For accepted alternative answers, type Answer one | Answer two
   in the editor.
 - Press Enter (or Check Answer) to immediately see whether your answer is
@@ -43,11 +48,10 @@ QUIZ ANSWERS:
   and percentage score for each completed quiz.
 
 INCLUDED SETS:
-- Sets 1-6: the original 850 reviewer questions, unchanged.
-- Set 7: 150 Demography and POPDEV Policy terms.
-- Set 8: 150 Adolescent and Reproductive Health terms.
-- Set 9: 150 Advanced POPDEV terms including ageing and nuptiality.
-- The coach bank is also in POPDEV_Coach_450_Term_Questions.json so it can
-  be re-imported or archived independently of the full Studio.
+- Sets 1-8: 150 questions per set.
+- Set 9: 101 questions.
+- Full separate importable file: NFOT_2026_Priority_1301_Question_Bank.json.
+- On an existing device, the official Sets 1-9 are refreshed once. Your
+  separately saved attempt history and custom-added questions remain.
 
 This is an independent, custom quiz maker, not Wondershare QuizCreator.
