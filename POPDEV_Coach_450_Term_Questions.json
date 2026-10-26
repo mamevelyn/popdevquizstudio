@@ -1,0 +1,4052 @@
+[
+  {
+    "id": "coach-001",
+    "question": "The process in which populations shift from high birth and death rates toward lower rates is _____.",
+    "answer": "Demographic transition",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-002",
+    "question": "The systematic examination of a group born during the same period as it experiences later events is _____.",
+    "answer": "Cohort analysis",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-003",
+    "question": "Deaths associated with pregnancy or childbirth expressed per live births are summarized by the _____.",
+    "answer": "Maternal mortality ratio",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-004",
+    "question": "An analysis of the number of persons gained through births and migration and lost through deaths and migration uses the _____.",
+    "answer": "Demographic balancing equation",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-005",
+    "question": "Continued population growth caused by a youthful age structure even after fertility declines is _____.",
+    "answer": "Population momentum",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-006",
+    "question": "A potentially favorable period when the working-age share rises relative to dependents is the _____.",
+    "answer": "Demographic dividend",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-007",
+    "question": "The share of persons in successive age groups within a population is its _____.",
+    "answer": "Age structure",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-008",
+    "question": "The total birth and death processes occurring in a population, apart from migration, determine its _____.",
+    "answer": "Natural increase",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-009",
+    "question": "The expected number of additional years a person of a specified age will live under prevailing mortality rates is _____.",
+    "answer": "Life expectancy",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-010",
+    "question": "A table following survival and deaths across ages in a population is a _____.",
+    "answer": "Life table",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-011",
+    "question": "A graph displaying the age and sex distribution of a population is a _____.",
+    "answer": "Population pyramid",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-012",
+    "question": "A population diagram with a wide base signaling a large young population is an _____.",
+    "answer": "Expansive pyramid",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-013",
+    "question": "A population diagram with a nearly rectangular age distribution is a _____.",
+    "answer": "Stationary pyramid",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-014",
+    "question": "A population diagram with a narrow base indicating relatively fewer births is a _____.",
+    "answer": "Constrictive pyramid",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-015",
+    "question": "A population count based on usual residence is the _____.",
+    "answer": "De jure population",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-016",
+    "question": "A population count based on the place where people are actually present is the _____.",
+    "answer": "De facto population",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-017",
+    "question": "Relocation within a country's borders is _____.",
+    "answer": "Internal migration",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-018",
+    "question": "Movement from one country to another that changes usual residence is _____.",
+    "answer": "International migration",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-019",
+    "question": "The return to a person's previous place of residence after migration is _____.",
+    "answer": "Return migration",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-020",
+    "question": "Money transferred by migrants to their families or communities of origin is called _____.",
+    "answer": "Remittances",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-021",
+    "question": "Circumstances in an origin area that encourage people to leave are _____.",
+    "answer": "Push factors",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-022",
+    "question": "Attractions in a destination area that encourage movement there are _____.",
+    "answer": "Pull factors",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-023",
+    "question": "The increasing proportion of a population living in urban areas is _____.",
+    "answer": "Urbanization",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-024",
+    "question": "Low-density physical expansion beyond an existing built-up urban center is _____.",
+    "answer": "Urban sprawl",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-025",
+    "question": "A one-on-one qualitative conversation with a knowledgeable stakeholder is a _____.",
+    "answer": "Key informant interview",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-026",
+    "question": "A moderated group conversation to gather different views about an issue is a _____.",
+    "answer": "Focus group discussion",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-027",
+    "question": "Original information collected directly for a particular study is _____.",
+    "answer": "Primary data",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-028",
+    "question": "Information already collected for another purpose and reused in a study is _____.",
+    "answer": "Secondary data",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-029",
+    "question": "A documented description of how an intervention is expected to lead to results is a _____.",
+    "answer": "Theory of change",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-030",
+    "question": "The conscious use of population dynamics as evidence in development decisions is _____.",
+    "answer": "Population-development integration",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-031",
+    "question": "A planning perspective that accounts for the needs of people at different stages of life is a _____.",
+    "answer": "Life-course approach",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-032",
+    "question": "The coordinated use of evidence from several sectors to address a shared social problem is _____.",
+    "answer": "Intersectoral collaboration",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-033",
+    "question": "An approach to developing public policy using the best available verified information is _____.",
+    "answer": "Evidence-informed policymaking",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-034",
+    "question": "A goal of development that includes disadvantaged groups in access to opportunities is _____.",
+    "answer": "Inclusive growth",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-035",
+    "question": "The economic, social, and environmental approach that meets present needs without harming future generations is _____.",
+    "answer": "Sustainable development",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-036",
+    "question": "A policy practice considering women's and men's different needs when designing programs is _____.",
+    "answer": "Gender mainstreaming",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-037",
+    "question": "The process of evaluating whether programs produced their intended outcomes is _____.",
+    "answer": "Program evaluation",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-038",
+    "question": "A comprehensive public strategy addressing population challenges through coordinated actions is a _____.",
+    "answer": "Population policy",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-039",
+    "question": "A planning process in which community members help identify priorities and design solutions is _____.",
+    "answer": "Participatory planning",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-040",
+    "question": "The comparison of multiple information sources to confirm a finding is _____.",
+    "answer": "Data triangulation",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-041",
+    "question": "A profile of a locality's population, livelihood, education and living conditions is _____.",
+    "answer": "Socioeconomic profiling",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-042",
+    "question": "An evidence-based examination of the nature and causes of an issue is _____.",
+    "answer": "Situation analysis",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-043",
+    "question": "An assessment of the difference between people's existing conditions and the services they need is _____.",
+    "answer": "Needs assessment",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-044",
+    "question": "Guided professional support that helps local planners develop new skills is _____.",
+    "answer": "Mentoring",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-045",
+    "question": "Specialized advice provided to strengthen an organization's ability to plan is _____.",
+    "answer": "Technical assistance",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-046",
+    "question": "A group of representatives assigned to guide a specialized planning task is a _____.",
+    "answer": "Technical working group",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-047",
+    "question": "A collaborative session where planners develop or revise their proposed actions is a _____.",
+    "answer": "Planning workshop",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-048",
+    "question": "An observable measure indicating progress toward a program target is a _____.",
+    "answer": "Performance indicator",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-049",
+    "question": "The continuous review of information about program implementation is _____.",
+    "answer": "Program monitoring",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-050",
+    "question": "The relationship between the resources consumed and the results attained is _____.",
+    "answer": "Program efficiency",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-051",
+    "question": "The fairness of a program's reach across population groups is _____.",
+    "answer": "Program equity",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-052",
+    "question": "The extent to which a program accomplishes its stated objectives is _____.",
+    "answer": "Program effectiveness",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-053",
+    "question": "Including population concerns in regular government planning is _____.",
+    "answer": "Population mainstreaming",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-054",
+    "question": "Moving some responsibilities and authority from central institutions to local ones is _____.",
+    "answer": "Decentralization",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-055",
+    "question": "Programs helping households withstand economic and social risks provide _____.",
+    "answer": "Social protection",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-056",
+    "question": "Reliable access to sufficient safe and nutritious food is _____.",
+    "answer": "Food security",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-057",
+    "question": "The capacity to adapt to and recover from climate-related threats is _____.",
+    "answer": "Climate resilience",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-058",
+    "question": "Measures taken before emergencies to limit people's exposure and vulnerability constitute _____.",
+    "answer": "Disaster risk reduction",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-059",
+    "question": "Continuing education throughout adult life is _____.",
+    "answer": "Lifelong learning",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-060",
+    "question": "The interactions among workers, employers, wages, and job opportunities form the _____.",
+    "answer": "Labor market",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-061",
+    "question": "Improving regions based on their individual needs and strengths is _____.",
+    "answer": "Regional development",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-062",
+    "question": "Maintaining manageable public borrowing and sustainable government finances is _____.",
+    "answer": "Fiscal sustainability",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-063",
+    "question": "Modernizing production, processing, and markets linked to agriculture is _____.",
+    "answer": "Agribusiness modernization",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-064",
+    "question": "The systematic creation and testing of knowledge for practical application is _____.",
+    "answer": "Research and development",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-065",
+    "question": "Places combining safe housing, public services and accessible mobility are _____.",
+    "answer": "Livable communities",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-066",
+    "question": "Improved welfare and participation of disadvantaged groups through development is _____.",
+    "answer": "Inclusive development",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-067",
+    "question": "The involvement of citizens in judging and improving program outcomes is _____.",
+    "answer": "Participatory evaluation",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-068",
+    "question": "An institution's organized collection, use, and sharing of research findings is _____.",
+    "answer": "Knowledge management",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-069",
+    "question": "Governance that includes the voices of residents whose lives are affected is _____.",
+    "answer": "People-centered governance",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-070",
+    "question": "Using verified local information to guide policy and budget choices is _____.",
+    "answer": "Evidence-based planning",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-071",
+    "question": "The civil registration of a child's birth is _____.",
+    "answer": "Birth registration",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-072",
+    "question": "Official recording of a marriage in the civil registration system is _____.",
+    "answer": "Marriage registration",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-073",
+    "question": "The period between two successive live births to the same woman is a _____.",
+    "answer": "Birth interval",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-074",
+    "question": "The childbearing level corresponding to the births women say they want is _____.",
+    "answer": "Wanted fertility",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-075",
+    "question": "Stopping a family planning method after starting to use it is _____.",
+    "answer": "Contraceptive discontinuation",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-076",
+    "question": "Voluntary selection of contraception using adequate and understandable information is _____.",
+    "answer": "Informed contraceptive choice",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-077",
+    "question": "Treatment that replaces fluid lost from diarrhea is _____.",
+    "answer": "Oral rehydration therapy",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-078",
+    "question": "Coverage that pays or offsets specified medical expenses is _____.",
+    "answer": "Health insurance",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-079",
+    "question": "A woman's ability to decide how her own wages are spent is _____.",
+    "answer": "Control over earnings",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-080",
+    "question": "Seeking assistance after experiencing abuse or violence is _____.",
+    "answer": "Help-seeking behavior",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-081",
+    "question": "The use of safe materials and facilities to manage menstrual bleeding is _____.",
+    "answer": "Menstrual hygiene",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-082",
+    "question": "Devices and fuels designed to reduce harmful household cooking smoke are _____.",
+    "answer": "Clean cooking technologies",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-083",
+    "question": "Moving residences repeatedly across a life course involves _____.",
+    "answer": "Multiple migration episodes",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-084",
+    "question": "The sequence and pattern of a person's moves over time is their _____.",
+    "answer": "Migration trajectory",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-085",
+    "question": "Relatives and friends whose ties make it easier to move are _____.",
+    "answer": "Migration networks",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-086",
+    "question": "Helping returning migrants rebuild livelihoods and social connections is _____.",
+    "answer": "Returnee reintegration",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-087",
+    "question": "Education, skills, and health that raise people's productive abilities are _____.",
+    "answer": "Human capital",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-088",
+    "question": "The random difference between a survey estimate and the population value is _____.",
+    "answer": "Sampling error",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-089",
+    "question": "Factors affecting who in a household initiates or approves relocation shape _____.",
+    "answer": "Migration decision-making",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-090",
+    "question": "Which presidential decree established the Commission on Population in 1972? — _____",
+    "answer": "Presidential Decree No. 79",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-091",
+    "question": "Which executive order renamed POPCOM the Commission on Population and Development in 2018? — _____",
+    "answer": "Executive Order No. 71",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-092",
+    "question": "Which Republic Act established the Philippine Identification System? — _____",
+    "answer": "Republic Act No. 11055",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-093",
+    "question": "Which Republic Act is the Philippine Climate Change Act? — _____",
+    "answer": "Republic Act No. 9729",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-094",
+    "question": "Which executive order adopted AmBisyon Natin 2040 as the country's long-term vision? — _____",
+    "answer": "Executive Order No. 5",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-095",
+    "question": "Which term is a key determinant of fertility? — _____.",
+    "answer": "Contraceptive use",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-096",
+    "question": "Identify the POPDEV term described as the method for computing the rate of growth that assumes that there are linear increases or decreases in a population — — _____.",
+    "answer": "Arithmetic Change",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-097",
+    "question": "Identify the POPDEV term described as the method for computing the rate of growth that assumes an instantaneous growth rate, meaning compounding is done continuously — — _____.",
+    "answer": "Exponential Change",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-098",
+    "question": "Identify the POPDEV term described as the rate computed for the entire population of a specified area or group regardless of exposure to the risk of the event. The entire population is used as the denominator — — _____.",
+    "answer": "Crude Rate",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-099",
+    "question": "In POPDEV analysis, which concept refers to the occurrence of deaths in a population. It represents an attrition or reduction in numbers —? — _____.",
+    "answer": "Mortality",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-100",
+    "question": "Identify the POPDEV term described as a group of people sharing a common demographic experience and this group may be observed through time — — _____.",
+    "answer": "Cohort",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-101",
+    "question": "In POPDEV analysis, which concept refers to the live births that occur within a population. It represents additions to the population and results in the restoration of the population —? — _____.",
+    "answer": "Fertility",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-102",
+    "question": "Identify the POPDEV term described as the computation of future population numbers, given certain assumptions about the future trends in the rates of fertility, mortality and migration — — _____.",
+    "answer": "Projection",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-103",
+    "question": "In POPDEV analysis, which concept refers to the time interval for which the measure is being computed. This is usually a calendar year. Thus, the derive measure denotes occurrence or condition in an annual basis —? — _____.",
+    "answer": "Period",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-104",
+    "question": "Identify the POPDEV term described as used to determine the relation of one sub-group to a larger group that includes the subgroup itself. It is a special type of ratio in which the denominator includes the numerator — — _____.",
+    "answer": "Proportion",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-105",
+    "question": "Identify the POPDEV term described as to determine the extent of the occurrence of an event in a population within a specific time period. It is used to denote the dynamics of change involving the demographic processes — — _____.",
+    "answer": "Rate",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-106",
+    "question": "Main Source of Data which is a yearly publication by the BLES, DOLE in collaboration with the NSO. It aims to provide timely and precise data series on labor and employment and related socio-economic indicators The term is _____.",
+    "answer": "Yearbook of Labor Statistics",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-107",
+    "question": "Main Source of Data which is a yearly publication that contains statistics which are derived from the documents used in registering births, deaths, foetal deaths, marriages, annulments, change of names, among others The term is _____.",
+    "answer": "Vital Statistics Report",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-108",
+    "question": "Which term is the “migration that has occurred between birth and the time of the census or survey? — _____.",
+    "answer": "Lifetime migration",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-109",
+    "question": "It is a more refined measure of mortality. It takes into account the age variations in the risks of dying. It typically shows the pattern of mortality in a given period. It has a J shape where deaths are generally high during infancy and early childhood The term is _____.",
+    "answer": "Age-Specific Death Rate",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-110",
+    "question": "It is the method for computing the rate of growth that assumes that the population changes at a rate where the increments or decreases are compounded over a specified period. Demographers usually adopt this equation because population grows in this fashion The term is _____.",
+    "answer": "Geometric Change",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-111",
+    "question": "Term mastery: Main Source of Data which is a canvass of all persons in a given territory at a particular period. It is also a process of collecting, compiling and publishing demographic, economic and social data for a particular period — _____.",
+    "answer": "Census",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-112",
+    "question": "Identify the POPDEV term described as the formal study of population. It is concerned with the size, spatial distribution and composition of human populations and the processes that bring changes in them like fertility, mortality, migration or social mobility — — _____.",
+    "answer": "Demography",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-113",
+    "question": "Term mastery: Of the three processes that influence the size, composition, and distribution of the Philippine population, _____ is the most complex because unlike birth or death - which both occur only once during the lifetime of a person – it is a repeatable event.",
+    "answer": "migration",
+    "set": "Set 7",
+    "source": "06_NMS_2018",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-114",
+    "question": "A _____ is expected to occur once population growth starts to slow down.",
+    "answer": "demographic bonus",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-115",
+    "question": "_____ has contributed to urbanization and local socioeconomic development, especially of cities.",
+    "answer": "Geographic movement of people",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-116",
+    "question": "Term mastery: Women who intend to space or limit births but are not using family planning methods are considered to have an “_____” for family planning.",
+    "answer": "unmet need",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-117",
+    "question": "Term mastery: Intergenerational Poverty, sometimes referred to as the “_____”, intergenerational poverty (IGP) is described as poverty that persists from one generation to the next.",
+    "answer": "Cycle of Poverty",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-118",
+    "question": "Term mastery: While the country has witnessed a significant fertility decline over the last decade, the _____ of the population as well as region-specific fertility rates have not been even.",
+    "answer": "geographic distribution",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-119",
+    "question": "It is the method of counting whereby every person in a given area at a given time is enumerated where he / she is found. In this process there is less chance for double counting or omission of people. However, the census has to be taken fast because people might be moving The term is _____.",
+    "answer": "De Facto",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-120",
+    "question": "It is the method of counting wherein all persons are enumerated according to their usual place of residence. In this approach, one does not need to do the census fast. Censuses in the Philippines use this approach The term is _____.",
+    "answer": "De Jure",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-121",
+    "question": "Main Source of Data which is a major product of relatively complex procedures designed primarily to accomplish the registration of vital events like deaths, births, marriages, annulments, adoptions and legitimations The term is _____.",
+    "answer": "Vital Statistics / Vital Registration",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-122",
+    "question": "It is the most basic method to compute for the numerical change in the population assuming that data on births, deaths and migration are complete and reliable. It shows that the population at a later period is equal to the population at the earlier period plus the difference between births and deaths plus the net migration The term is _____.",
+    "answer": "Balancing Equation",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-123",
+    "question": "Main Source of Data which is a yearly publication by the National Statistical Coordinating Board (NSCB). It presents in summary major statistical series on population and housing; income and prices; economic accounts; natural resources; agriculture; establishments characteristics particular to industrial sector, foreign trade, among others The term is _____.",
+    "answer": "Philippine Statistical Yearbook",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-124",
+    "question": "_____ are the births, deaths, fetal deaths, marriages, and all such events that have something to do with an individual’s entrance and departure from life together with the changes in civil status that may occur to a person during his lifetime.",
+    "answer": "Vital acts and events",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-125",
+    "question": "Term mastery: The Philippine Population and Development Plan of Action’s (PPD-POA’s) goal is to optimize _____ and address persistent population issues and challenges to reap demographic dividend and accelerate sustainable and inclusive development at all levels.",
+    "answer": "demographic opportunities",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-126",
+    "question": "Term mastery: Moreover, the emerging population dynamics in the country now calls for all interventions to focus more on “_____” rather than simply “human numbers” - underscoring efforts to improve people’s lives and increase respect for their human rights, including reproductive health rights.",
+    "answer": "human lives",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-127",
+    "question": "Term mastery: Percentage of women who use any contraceptive method — _____.",
+    "answer": "Contraceptive prevalence",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-128",
+    "question": "Term mastery: Are statistics referring to births, deaths and marriages — _____.",
+    "answer": "Vital Statistics",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-129",
+    "question": "Term mastery: The level of fertility at which a population exactly replaces itself from one generation to the next — _____.",
+    "answer": "Replacement Fertility Level",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-130",
+    "question": "Feature of Census where census is taken for well-_____ and all persons residing / present during the said date are enumerated.",
+    "answer": "Defined Territory",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-131",
+    "question": "Sometimes referred to as the “Cycle of Poverty”, _____ (IGP) is described as poverty that persists from one generation to the next.",
+    "answer": "Intergenerational Poverty",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-132",
+    "question": "Term mastery: Feature of Census where all persons are enumerated separately and the characteristics of all persons are also recorded separately — _____.",
+    "answer": "Individual Enumeration",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-133",
+    "question": "Term mastery: Feature of Census where censuses are taken at a regular interval so that comparable information are made available in a fixed sequence — _____.",
+    "answer": "Reference Period",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-134",
+    "question": "Term mastery: contraceptive pills, implants, female and male condoms, emergency contraception, the standard days method, and the lactational amenorrhea method — _____.",
+    "answer": "Modern methods",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-135",
+    "question": "Term mastery: With the decline in fertility, the population is _____ leading to a shift in the age structure. The share of the young segment population has declined; the proportion of the working age population has increased, and the older segment of the population has also gradually increased.",
+    "answer": "maturing",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-136",
+    "question": "Term mastery: The national identification system is called _____.",
+    "answer": "PhilSys",
+    "set": "Set 7",
+    "source": "05_PDP_2023_2028",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-137",
+    "question": "Term mastery: Fertility, mortality and migration are population _____.",
+    "answer": "Processes",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-138",
+    "question": "Term mastery: The population per square kilometer is called population _____.",
+    "answer": "density",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-139",
+    "question": "Term mastery: The subgroup actually using project services is population-at-_____.",
+    "answer": "demand",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-140",
+    "question": "Term mastery: The subgroup already exhibiting the problem condition is population-at-_____.",
+    "answer": "need",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-141",
+    "question": "Term mastery: The subgroup with a high likelihood of developing a problem is the population-at-_____.",
+    "answer": "risk",
+    "set": "Set 7",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-142",
+    "question": "Term mastery: Feature of Census where census is taken with respect to a given point in time and data are in terms of a well-defined reference period — _____.",
+    "answer": "Simultaneity",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-143",
+    "question": "Term mastery: Among modern contraceptive methods, the _____ is consistently the most commonly used method.",
+    "answer": "pill",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-144",
+    "question": "Term mastery: The probability of dying within the first month of life — _____.",
+    "answer": "Neonatal mortality",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-145",
+    "question": "Term mastery: The probability of dying between birth and the first birthday — _____.",
+    "answer": "Infant mortality",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-146",
+    "question": "Term mastery: The probability of dying between the first and the fifth birthday — _____.",
+    "answer": "Child mortality",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-147",
+    "question": "It divides the population into two, one group below it and the other above it The term is _____.",
+    "answer": "Median Age of the Population",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-148",
+    "question": "Term mastery: The probability of dying between the first month of life and the first birthday (computed as the difference between infant and neonatal mortality) — _____.",
+    "answer": "Postneonatal mortality",
+    "set": "Set 7",
+    "source": "03_NDHS_2022",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-149",
+    "question": "Main Source of Data which is are prepared by NSO in collaboration with experts as a necessary input to development planning and policy formulation The term is _____.",
+    "answer": "National and Regional Population Projection",
+    "set": "Set 7",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-150",
+    "question": "Term mastery: Given the declining fertility level, improving life expectancy and declining mortality, the natural increase of population of the country is likewise at a downward trend. This paves the way for the country towards the _____ phase of demographic transition where both fertility and mortality are declining.",
+    "answer": "third",
+    "set": "Set 7",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-151",
+    "question": "The requirement that partners freely agree to sexual activity is _____.",
+    "answer": "Sexual consent",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-152",
+    "question": "An approach to adolescent learning that protects participants' dignity and disclosures establishes a _____.",
+    "answer": "Safe learning environment",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-153",
+    "question": "A reliable parent, guardian, mentor, or professional to whom an adolescent can turn for help is a _____.",
+    "answer": "Trusted adult",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-154",
+    "question": "The coordinated mechanism that helps adolescents reach specialized services is a _____.",
+    "answer": "Referral system",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-155",
+    "question": "Methods for declining unwanted pressure while respecting oneself and others are _____.",
+    "answer": "Refusal skills",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-156",
+    "question": "The ability to express needs openly without threatening others is _____.",
+    "answer": "Assertive communication",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-157",
+    "question": "The ability to recognize, understand, and manage emotional responses is _____.",
+    "answer": "Emotional regulation",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-158",
+    "question": "An attitude that treats people differently based on fixed assumptions about their social group is _____.",
+    "answer": "Stereotyping",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-159",
+    "question": "The unfair treatment of a person because of perceived characteristics is _____.",
+    "answer": "Discrimination",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-160",
+    "question": "Hostile or unwanted behavior conducted through online communication is _____.",
+    "answer": "Cyberbullying",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-161",
+    "question": "A disease-causing infection transmitted primarily by sexual contact is a _____.",
+    "answer": "Sexually transmitted infection",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-162",
+    "question": "A person's perceived value and acceptance of self is called _____.",
+    "answer": "Self-esteem",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-163",
+    "question": "The influence of friends that shapes decisions and behavior is _____.",
+    "answer": "Peer pressure",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-164",
+    "question": "A person's understanding of and feelings toward their own physical appearance is _____.",
+    "answer": "Body image",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-165",
+    "question": "Mutual agreements about acceptable behavior in close partnerships are _____.",
+    "answer": "Relationship boundaries",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-166",
+    "question": "A young person's capacity to decide responsibly without yielding to unwanted pressure is _____.",
+    "answer": "Decision-making autonomy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-167",
+    "question": "Belief in one's ability to take successful action is _____.",
+    "answer": "Self-efficacy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-168",
+    "question": "Evaluating reasons and evidence before accepting a claim is _____.",
+    "answer": "Critical thinking",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-169",
+    "question": "The skill of judging whether messages on digital platforms are reliable is _____.",
+    "answer": "Media literacy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-170",
+    "question": "A setting where adolescents can raise difficult questions without shame is a _____.",
+    "answer": "Safe space",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-171",
+    "question": "Coordinated assistance across schools, health providers, and community agencies is a _____.",
+    "answer": "Service network",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-172",
+    "question": "Education providing accurate, age-appropriate information about relationships and reproductive health is _____.",
+    "answer": "Sexuality education",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-173",
+    "question": "An approach in which young people teach and help their age peers is _____.",
+    "answer": "Peer education",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-174",
+    "question": "A facility offering several adolescent-friendly support services in one place is a _____.",
+    "answer": "Teen center",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-175",
+    "question": "Learning to recognize, name, and communicate emotions develops _____.",
+    "answer": "Emotional literacy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-176",
+    "question": "Understanding and responding to another person's feelings is _____.",
+    "answer": "Empathy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-177",
+    "question": "Repeated unwanted behavior that intimidates or harms another person is _____.",
+    "answer": "Harassment",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-178",
+    "question": "The ability to adapt and recover after adversity is _____.",
+    "answer": "Resilience",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-179",
+    "question": "Which Republic Act established the Responsible Parenthood and Reproductive Health Law? — _____",
+    "answer": "Republic Act No. 10354",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-180",
+    "question": "Term mastery: “_____” means the body suddenly grows at a rapid rate.",
+    "answer": "Growth spurt",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-181",
+    "question": "_____ is a virus that attacks and breaks down a person’s immune system.",
+    "answer": "Human Immunodeficiency Virus",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-182",
+    "question": "Term mastery: _____ refers to social interaction with others who could become romantic or sex partners.",
+    "answer": "Courtship and dating",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-183",
+    "question": "The _____ is a small plastic device inserted into a woman’s uterine cavity to prevent pregnancy.",
+    "answer": "Intrauterine Device",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-184",
+    "question": "Term mastery: _____ means caring deeply for that person and being committed to his or her well-being and happiness.",
+    "answer": "Loving someone",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-185",
+    "question": "When a person forces (or attempts to force) another person to engage in a sexual activity, it is called _____.",
+    "answer": "Sexual Coercion and /",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-186",
+    "question": "Term mastery: _____ means not expressing your own needs and feelings, or expressing them so weakly that they will not be addressed.",
+    "answer": "Passive Communication",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-187",
+    "question": "Term mastery: _____ occurs when someone forces (or attempts to force) another individual to engage in sexual activity against her/his will.",
+    "answer": "Sexual coercion",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-188",
+    "question": "Term mastery: _____ means the growth of an adolescent’s ability to think and reason. This growth happens differently during adolescent years.",
+    "answer": "Cognitive development",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-189",
+    "question": "The _____ is a safe and simple surgical procedure that provides permanent contraception for women who do not want more children.",
+    "answer": "Bilateral Tubal Ligation",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-190",
+    "question": "Term mastery: At puberty, the body achieves “_____.” This means that boys and girls have become capable of reproduction. It also includes enlargement of primary sex organs.",
+    "answer": "sexual maturation",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-191",
+    "question": "Term mastery: The _____ is a walnut-sized gland located between the bladder and the penis. It is just in front of the rectum. It secretes fluid that nourishes and protects sperm.",
+    "answer": "prostate gland",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-192",
+    "question": "Term mastery: A _____ is a way of living that lowers the risk of being seriously ill or dying early (World Health Organization). It helps in keeping and improving people's health and well-being.",
+    "answer": "healthy lifestyle",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-193",
+    "question": "Identify the POPDEV term described as a  that provides adolescents with age and development-appropriate information, values and behavior in educating others who may share similar social backgrounds or life experiences — _____.",
+    "answer": "peer-to-peer approach",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-194",
+    "question": "Which term is a central aspect of human being. It involves the way we experience and express ourselves sexually. It involves biological, erotic, physical, emotional, social, or spiritual feelings and behaviors? — _____.",
+    "answer": "Human sexuality",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-195",
+    "question": "Term mastery: A damaging complication of obstructed labor is _____. In this case, there is a hole between the vagina and the bladder or rectum. A female afflicted with this condition constantly leaks urine or feces and smells bad.",
+    "answer": "obstetric fistula",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-196",
+    "question": "Which term is a time of sexual exploration and expression? — _____.",
+    "answer": "Adolescence",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-197",
+    "question": "Which term is a set of attitudes and beliefs about who we are? — _____.",
+    "answer": "Identity",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-198",
+    "question": "Which term is a dimension of life. It is experienced in thoughts, feelings, and practices? — _____.",
+    "answer": "Sexuality",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-199",
+    "question": "Which term is the expulsion of semen through the penis. It is when semen spurts out of the penis? — _____.",
+    "answer": "Ejaculation",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-200",
+    "question": "Term mastery: _____ (in any kind of relationship, including a romantic one) refers to feelings of envy, possessiveness, vulnerability, anger, and resentment.",
+    "answer": "Jealousy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-201",
+    "question": "Term mastery: The _____ is a loose bag of skin that holds and protects the testicles. It has a protective function and acts as a climate control system for the testes.",
+    "answer": "scrotum",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-202",
+    "question": "Term mastery: _____is an important part of any relationship, including romantic and sexual relationships. It is important for ensuring that people are consenting to engage in any activity, including sexual activity.",
+    "answer": "Communication",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-203",
+    "question": "Term mastery: The _____ is a tube that runs from the bladder through the penis. It is the passageway through which semen travels out of the body during ejaculation. It is also the passageway of urine out of the body.",
+    "answer": "urethra",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-204",
+    "question": "Which term is a scientific method of observation that gathers non-numerical data. It aims to describe meanings, concepts definitions, characteristics, metaphors, symbols, nature, and events and not to their \"counts or measures.”? — _____.",
+    "answer": "Qualitative research",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-205",
+    "question": "_____ is a term used to refer to all the diversities of sex characteristics, sexual orientations and gender identities, without the need to specify each of the identities, behaviors or characteristics that form this plurality.",
+    "answer": "Gender and sexual diversity",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-206",
+    "question": "Term mastery: The _____ is a highly interactive and participative adult learning strategy that aims to educate and enhance the skills of parents as well as adolescents in a two-way communication about sexual and reproductive health concerns.",
+    "answer": "Parent-Teen Talk",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-207",
+    "question": "Term mastery: The _____ or outer lips cover are a pair of rounded folds of skin and adipose that are part of the external female genitalia. Their function is to cover and protect the inner, more delicate and sensitive structures of the vulva.",
+    "answer": "labia majora",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-208",
+    "question": "_____ is a syndrome caused by a virus called HIV (human immunodeficiency virus). The disease alters the immune system, making people much more vulnerable to infections and diseases. This susceptibility worsens if the syndrome progresses.",
+    "answer": "Acquired Immune Deficiency Syndrome",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-209",
+    "question": "Term mastery: _____ involves the use of computational, statistical, and mathematical methods to measure or quantify certain problems or phenomenon and understand how prevalent it is by looking for projectable results to a larger population. It may use primary and secondary data.",
+    "answer": "Quantitative research",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-210",
+    "question": "Term mastery: The _____ are a pair of glands that are positioned below the urinary bladder and lateral to the vas deferens. Each of this consists of a single tube folded and coiled on itself, with occasional diverticula in its wall. They produce and store fluid that will eventually become semen.",
+    "answer": "seminal vesicles",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-211",
+    "question": "Which term is the kind of influence that makes you do things that have negative consequences or impact on you and to others. This pressure makes you want to make other people feel bad or sad, or make you do something just so you feel part of the group even when you know that it is wrong? — _____.",
+    "answer": "Negative peer pressure",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-212",
+    "question": "Identify the POPDEV term described as a longing for sexual expression or a feeling of sexual attraction — — _____.",
+    "answer": "Sexual desire",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-213",
+    "question": "It is rights-based, gender-focused, curriculum-based, and goes beyond the focus on prevention of pregnancy and STIs The term is _____.",
+    "answer": "Comprehensive Sexuality Education",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-214",
+    "question": "Saying “NO” to invitations and decisions that may undermine your wellbeing is a needed skill for you to pursue your dreams and aspirations The term is _____.",
+    "answer": "Negotiation and Refusal Skills",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-215",
+    "question": "Term mastery: Menstruation comes from the Latin word mensis, which means “month.” Most females have a period each month. This is why menstruation is also called “_____.”.",
+    "answer": "monthly period",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-216",
+    "question": "Term mastery: An _____ is the removal or expulsion of an embryo or fetus from the uterus, resulting in or caused by its death. This can occur spontaneously as a miscarriage, or be artificially induced through chemical, surgical or other means.",
+    "answer": "abortion",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-217",
+    "question": "Term mastery: The _____ is a long, coiled tube that rests on the backside of each testicle. It transports and stores sperm cells that are produced in the testes. A valve at the bottom of the bladder closes when the penis is erect to prevent urination during ejaculation.",
+    "answer": "epididymis",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-218",
+    "question": "Term mastery: The _____ is a small organ, shaped like a flower bud with a bit of tissue forming a small “hood.” It contains thousands of nerve endings that make it an extremely sensitive organ. Touch stimulation of the nerve endings in this part produces sensations of sexual pleasure.",
+    "answer": "clitoris",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-219",
+    "question": "In POPDEV analysis, which concept refers to the fertilized egg —? — _____.",
+    "answer": "zygote",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-220",
+    "question": "In POPDEV analysis, which concept refers to the physiological or bodily changes that result in development of sexual and reproductive capacity —? — _____.",
+    "answer": "Puberty",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-221",
+    "question": "Identify the POPDEV term described as the quality or character of a particular person or thing that distinguishes them from others of the same kind — — _____.",
+    "answer": "Individuality",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-222",
+    "question": "Term mastery: Menstruation comes from the Latin word _____, which means “month.” Most females have a period each month. This is why menstruation is also called “monthly period.”.",
+    "answer": "mensis",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-223",
+    "question": "Which term is understood as a violation of human rights and discrimination against women? — _____.",
+    "answer": "Violence against women",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-224",
+    "question": "Which term is expressing yourself in threatening, sarcastic or humiliating way that may offend the other person? — _____.",
+    "answer": "Aggressive Communication",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-225",
+    "question": "Which term is the personal sense of one's own gender. It can correlate with assigned sex at birth, or can differ from it? — _____.",
+    "answer": "Gender identity",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-226",
+    "question": "Which term is characterized by congruence between inner states (beliefs, feelings, attitudes) and outer states (behavior, relationships, health)? — _____.",
+    "answer": "High self-esteem",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-227",
+    "question": "Which term is determined at the time of conception (when the baby is conceived); a chromosome from the sperm cell, either X or Y, fuses with the X chromosome in the egg cell? — _____.",
+    "answer": "Chromosomal sex",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-228",
+    "question": "Term mastery: Sexual coercion is common in the context of dating and even at some group social events. This serious social problem is sometimes called “_____.” It is even more frequent when the date involves excessive drinking of alcohol, when there is little or no social accountability for one’s behavior, or when no trusted friends are nearby to turn to.",
+    "answer": "date rape",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-229",
+    "question": "Which term is all about choosing between two or more courses of action? — _____.",
+    "answer": "Decision-making",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-230",
+    "question": "Which term is the only perfect food for a baby, especially for a newborn? — _____.",
+    "answer": "Breastmilk",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-231",
+    "question": "Which term is the affectionate or loving personal relationship with someone? — _____.",
+    "answer": "Intimacy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-232",
+    "question": "Which term is the routine tracking of a programs activities by measuring on a regular, ongoing basis whether planned activities are being carried out or expected outputs are achieved? — _____.",
+    "answer": "Monitoring",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-233",
+    "question": "Term mastery: The post-ovulatory phase is _____.",
+    "answer": "absolutely infertile phase",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-234",
+    "question": "Term mastery: An _____ connects the placenta to the fetus.",
+    "answer": "umbilical cord",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-235",
+    "question": "Term mastery: _____ produce more sweat called perspiration.",
+    "answer": "Sweat glands",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-236",
+    "question": "A pregnancy that ends on its own is called a _____.",
+    "answer": "spontaneous abortion",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-237",
+    "question": "Term mastery: Excessive use and time invested on internet leads to _____.",
+    "answer": "internet addiction",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-238",
+    "question": "Term mastery: Menstruation, or _____, signals the beginning of a new cycle.",
+    "answer": "menstrual bleeding",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-239",
+    "question": "STIs are part of a broader group of infections known as _____.",
+    "answer": "Reproductive Tract Infections",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-240",
+    "question": "Term mastery: An _____ is an intentional removal of the fetus from the uterus.",
+    "answer": "induced abortion",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-241",
+    "question": "Term mastery: The _____ includes all dry days after the menstrual bleeding stops.",
+    "answer": "pre-ovulatory phase",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-242",
+    "question": "Term mastery: The _____ is located at the base of our skull at the back of our head.",
+    "answer": "pituitary gland",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-243",
+    "question": "Which terms or entities are daily opportunities that occur when you are with your adolescents? — _____.",
+    "answer": "Teachable moments",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-244",
+    "question": "Term mastery: Overall, complications from _____ is one of the main causes of maternal deaths.",
+    "answer": "unsafe abortion",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-245",
+    "question": "Term mastery: _____ entails the assumption and performance of several tasks and responsibilities.",
+    "answer": "Multiple-burden among women",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-246",
+    "question": "Term mastery: Some aspects of sexuality are matters of human rights; these are often called _____.",
+    "answer": "sexual rights",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-247",
+    "question": "Term mastery: Countries recognize that _____ is imperative in sustainable development initiatives.",
+    "answer": "youth involvement",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-248",
+    "question": "Which terms or entities are social associations, connections, or affiliations between two or more people? — _____.",
+    "answer": "Interpersonal relationships",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-249",
+    "question": "Term mastery: The pre-ovulatory phase is the _____ which includes all dry days after the menstrual bleeding stops.",
+    "answer": "relatively infertile phase",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-250",
+    "question": "_____ are infections passed primarily by sexual contact, including vaginal, oral, and anal intercourse.",
+    "answer": "Sexually transmitted infections",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-251",
+    "question": "Term mastery: _____ produce perspiration that is clear and odorless. These glands start working as soon as you are born.",
+    "answer": "Eccrine glands",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-252",
+    "question": "Term mastery: _____ contain only the hormone progestin, which is like the natural hormone progesterone in a woman’s body.",
+    "answer": "Progestin-Only Contraceptives",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-253",
+    "question": "Many people form long-term (even lifelong) relationships in which they live together. These are called _____.",
+    "answer": "domestic relationships",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-254",
+    "question": "_____ combines BOM and BBT together with other signs such as breast engorgement and unilateral abdominal pain.",
+    "answer": "Symptothermal Methods",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-255",
+    "question": "Term mastery: These are called “_____” because they create a barrier between the egg and the sperm, making fertilization impossible.",
+    "answer": "barrier methods",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-256",
+    "question": "Term mastery: Violence against women and girls, or against individuals who do not conform to dominant gender norms, is called _____.",
+    "answer": "gender-based violence",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-257",
+    "question": "Term mastery: The sebaceous or _____ in your skin become enlarged and more active, producing excess amounts of an oily substance called sebum.",
+    "answer": "oil glands",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-258",
+    "question": "Term mastery: After ovulation, the follicle is transformed into the _____, which produces an increasing amount of the hormone called progesterone.",
+    "answer": "corpus luteum",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-259",
+    "question": "Term mastery: _____ such as pills, injectable are drugs that contain hormones (estrogen and progestogen) similar to those found in a woman’s body.",
+    "answer": "Combined Hormonal Contraceptives",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-260",
+    "question": "Term mastery: Usually, “_____” involves feelings of sexual attraction and excitement. Sometimes this feeling is called “crush,” “romance,” or “infatuation.”.",
+    "answer": "falling in love",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-261",
+    "question": "If an adolescent girl gives birth and her pelvis is not yet at its full, she may suffer from what is called “_____” delivery or difficult delivery.",
+    "answer": "obstructed labor",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-262",
+    "question": "Which terms or entities are one-stop-shop facility where adolescents can easily access a wide range of information and services to ensure their health and wellbeing? — _____.",
+    "answer": "Teen Centers",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-263",
+    "question": "Term mastery: The days just before and around the time of ovulation are the time when a girl or woman can become pregnant. These are sometimes called her “_____.”.",
+    "answer": "fertile days",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-264",
+    "question": "Term mastery: Prior to ejaculation, the _____ release a drop or two of fluid through the tip of the penis. This is called pre-ejaculate, and it cleans the urethra.",
+    "answer": "Cowper’s glands",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-265",
+    "question": "_____ entails daily observation of cervical secretions whose amount, color, consistency, slipperiness and viscosity change during fertile and infertile days.",
+    "answer": "Billings Ovulation Method",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-266",
+    "question": "Term mastery: _____ fuels the cycle of poverty and discrimination. It has been labeled an epidemic that forces girls to drop out of school. It has reached national calamity status.",
+    "answer": "Teenage Pregnancy",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-267",
+    "question": "Term mastery: _____ involves observing daily the cervical secretions; if there is secretion yesterday or today, a woman should consider herself fertile and should avoid sexual intercourse today.",
+    "answer": "Two-Day Method",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-268",
+    "question": "Term mastery: _____ also referred to as In-Depth Interviews are one-on-one discussions intended to generate a picture of the individual participant’s perspective or views about the area of interest.",
+    "answer": "Key Informant Interviews",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-269",
+    "question": "_____ is the use of breastfeeding (exclusive) as temporary method of preventing pregnancy; exclusive breastfeeding temporarily prevents the release of the hormone that causes ovulation.",
+    "answer": "Lactational Amenorrhea Method",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-270",
+    "question": "Term mastery: The _____ prepares and transmits back referral (on the lower part of the form) to the referring or initiating facility to inform them of the services provided to the clients they referred.",
+    "answer": "receiving facility",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-271",
+    "question": "_____ involves determining a woman’s resting body temperature (body temperature after three hours of continuous sleep), which is lower before ovulation and rises around the time of ovulation.",
+    "answer": "Basal Body Temperature",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-272",
+    "question": "Which terms or entities are demonstrations of power over another person. They always violate the human rights of the person they are used against, regardless of whether they express jealousy or other feelings? — _____.",
+    "answer": "Violence and coercion",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-273",
+    "question": "Term mastery: The _____ is a hollow, muscular organ that rests above the bladder. It is shaped like an upside-down pear that rests above the bladder. The fertilized ovum gets implanted into the endometrium and derives nourishment from blood vessels which develop exclusively for this purpose. This part nurtures the fertilized ovum that develops into the fetus.",
+    "answer": "uterus",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-274",
+    "question": "Which term is determined by five factors present at birth: the presence or absence of a Y chromosome, the type of gonads, the sex hormones, the internal reproductive anatomy (such as the uterus in females), and the external genitalia? — _____.",
+    "answer": "Biological sex",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-275",
+    "question": "Term mastery: In males, the gonads are the _____.",
+    "answer": "testes",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-276",
+    "question": "Term mastery: In females the gonads are the _____.",
+    "answer": "ovaries",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-277",
+    "question": "Term mastery: Oil glands produce more oil called _____.",
+    "answer": "sebum",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-278",
+    "question": "Term mastery: Sweat glands produce more sweat called _____.",
+    "answer": "perspiration",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-279",
+    "question": "Term mastery: Fear of aversion to homosexuals is called _____.",
+    "answer": "homophobia",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-280",
+    "question": "Term mastery: The release of the egg from the ovary is called _____.",
+    "answer": "ovulation",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-281",
+    "question": "Term mastery: If a girl egg cell unites with the sperm, _____takes place.",
+    "answer": "fertilization",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-282",
+    "question": "Term mastery: When a woman is about to give birth, her body enters a stage called “_____.”.",
+    "answer": "labor",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-283",
+    "question": "Term mastery: The sticky liquid is _____, not urine. It contains millions of invisible sperms.",
+    "answer": "semen",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-284",
+    "question": "Which terms or entities are ideas we have about people where we judge them without even knowing them? — _____.",
+    "answer": "Stereotypes",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-285",
+    "question": "Term mastery: From puberty onwards, males continue to produce _____ in their testicles or testes.",
+    "answer": "sperm",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-286",
+    "question": "Term mastery: These socially constructed expectations, roles, attitude, and characteristics are called “_____.”.",
+    "answer": "gender",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-287",
+    "question": "Term mastery: The _____ provides the fetus with nutrients and oxygen from the mother, and carries out waste products.",
+    "answer": "placenta",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-288",
+    "question": "Which terms or entities are persons belonging to the same societal group based on age, sex, status, and other characteristics? — _____.",
+    "answer": "Peers",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-289",
+    "question": "Term mastery: After implantation, the embryo (at this stage called a _____) also gives rise to an amniotic sac and a placenta.",
+    "answer": "blastocyst",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-290",
+    "question": "The _____ are two ball-shaped glands inside the scrotum. They produces sperm and the male hormone testosterone.",
+    "answer": "testicles",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-291",
+    "question": "Which terms or entities are the only contraceptive method that protects partners from sexually transmitted infections including HIV? — _____.",
+    "answer": "Condoms",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-292",
+    "question": "Term mastery: Prior to ejaculation, the Cowper’s glands release a drop or two of fluid through the tip of the penis. This is called _____, and it cleans the urethra.",
+    "answer": "pre-ejaculate",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-293",
+    "question": "Term mastery: People with _____ excessively eat and then try to compensate in extreme ways such as making themselves throw up or exercising all the time to prevent weight gain.",
+    "answer": "bulimia",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-294",
+    "question": "Term mastery: People with _____ have a real fear of weight gain and a distorted view of their body size and shape. As a result, they eat very little and can become dangerously underweight.",
+    "answer": "anorexia",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-295",
+    "question": "_____ involve techniques of becoming aware of a woman’s fertile and infertile days within a menstrual cycle based on two naturally occurring fertility signs - changes in cervical mucus and changes in basal body temperature.",
+    "answer": "Fertility Awareness-Based Methods",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-296",
+    "question": "Which terms or entities are usually persons who have the same age or slightly older than the group or persons with whom they are working. They may work with adults such as teachers or organizations or may implement educational activities on their own? — _____.",
+    "answer": "Peer educators",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-297",
+    "question": "Term mastery: People with _____ is similar to anorexia and bulimia because a person binges regularly on food (at least once a week, but typically more often). But unlike the other eating disorders, a person with this disorder does not try to “compensate” by purging the food.",
+    "answer": "binge eating disorder",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-298",
+    "question": "Term mastery: _____ only becomes active when you start puberty. They are mostly located under your arms and in your genital area. They produce a different kind of perspiration, which can smell unpleasant when it comes in contact with bacteria on the skin. This smell is known as body odor.",
+    "answer": "Apocrine glands",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-299",
+    "question": "Term mastery: Apocrine glands only becomes active when you start puberty. They are mostly located under your arms and in your genital area. They produce a different kind of perspiration, which can smell unpleasant when it comes in contact with bacteria on the skin. This smell is known as _____.",
+    "answer": "body odor",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-300",
+    "question": "Term mastery: Other term for “wet dreams.” — _____.",
+    "answer": "nocturnal emission",
+    "set": "Set 8",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-301",
+    "question": "A sustained change in the share of older persons in a population is _____.",
+    "answer": "Population ageing",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-302",
+    "question": "The loss of study participants between repeated survey waves is called _____.",
+    "answer": "Survey attrition",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-303",
+    "question": "The statistical adjustments used to make survey estimates represent their target population are _____.",
+    "answer": "Sampling weights",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-304",
+    "question": "An asset-based indicator of relative socioeconomic position in a survey is the _____.",
+    "answer": "Wealth index",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-305",
+    "question": "A repeated study that follows the same respondents over time is a _____.",
+    "answer": "Longitudinal study",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-306",
+    "question": "An older person's capacity to bathe, dress, eat, and handle basic personal care concerns their _____.",
+    "answer": "Activities of daily living",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-307",
+    "question": "Abilities related to shopping, handling money, using transport, and managing medications are _____.",
+    "answer": "Instrumental activities of daily living",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-308",
+    "question": "The population-functioning indicator asking whether health problems limit usual activities is the _____.",
+    "answer": "Global Activity Limitation Indicator",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-309",
+    "question": "The standardized survey instrument used to measure depressive symptoms in the ageing study is the _____.",
+    "answer": "CES-D depression scale",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-310",
+    "question": "The five-item self-reported measure of positive psychological well-being is the _____.",
+    "answer": "WHO-5 well-being index",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-311",
+    "question": "The presence of multiple chronic conditions in one person is called _____.",
+    "answer": "Multimorbidity",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-312",
+    "question": "Difficulty obtaining medical attention despite wanting or needing care is _____.",
+    "answer": "Unmet healthcare need",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-313",
+    "question": "Difficulty controlling urination or bowel movements is _____.",
+    "answer": "Incontinence",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-314",
+    "question": "Supports for older persons needing continuing assistance with daily activities are _____.",
+    "answer": "Long-term care",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-315",
+    "question": "The study of marriage formation, timing, and marital status patterns is _____.",
+    "answer": "Nuptiality",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-316",
+    "question": "Living together in an intimate partnership without a formal marriage is _____.",
+    "answer": "Cohabitation",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-317",
+    "question": "A couple living together in a partnership recognized by consent rather than a marriage ceremony forms a _____.",
+    "answer": "Consensual union",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-318",
+    "question": "An arrangement in which living together is seen as preparation for future marriage is _____.",
+    "answer": "Premarital cohabitation",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-319",
+    "question": "An arrangement in which partners live together in place of marrying is an _____.",
+    "answer": "Alternative to marriage",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-320",
+    "question": "The theoretical perspective associating delayed marriage and changing unions with shifts in values is the _____.",
+    "answer": "Second Demographic Transition",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-321",
+    "question": "The qualitative approach that studies how language constructs social meaning and power is _____.",
+    "answer": "Critical discourse analysis",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-322",
+    "question": "Qualitative research that examines participants' accounts as stories is _____.",
+    "answer": "Narrative inquiry",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-323",
+    "question": "An interpretive method for identifying and refining patterns of meaning across interviews is _____.",
+    "answer": "Reflexive thematic analysis",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-324",
+    "question": "Agreement to participate in research after receiving understandable information about it is _____.",
+    "answer": "Informed consent",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-325",
+    "question": "The practices used to protect a research participant's personal identity and sensitive disclosures are _____.",
+    "answer": "Confidentiality safeguards",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-326",
+    "question": "The ability of older persons to perform daily tasks and participate in ordinary life is _____.",
+    "answer": "Functional health",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-327",
+    "question": "Physical or cognitive difficulties that interfere with everyday tasks are _____.",
+    "answer": "Functional limitations",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-328",
+    "question": "Joining family, community, or group activities is _____.",
+    "answer": "Social participation",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-329",
+    "question": "A lack of meaningful interpersonal connection and contact is _____.",
+    "answer": "Social isolation",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-330",
+    "question": "A person's personal assessment of overall health is _____.",
+    "answer": "Self-rated health",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-331",
+    "question": "How often and why people obtain medical and preventive services is _____.",
+    "answer": "Health service utilization",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-332",
+    "question": "An obstacle preventing or delaying a person from reaching medical help is a _____.",
+    "answer": "Healthcare access barrier",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-333",
+    "question": "Care given to a person in their own residence is _____.",
+    "answer": "Home-based care",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-334",
+    "question": "Assisting someone with everyday needs because of illness or disability is _____.",
+    "answer": "Caregiving",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-335",
+    "question": "Emotional, physical, or financial strain resulting from sustained care duties is _____.",
+    "answer": "Caregiver burden",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-336",
+    "question": "Health issues relating to the teeth, mouth, and gums concern _____.",
+    "answer": "Oral health",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-337",
+    "question": "Bodily movement that expends energy is _____.",
+    "answer": "Physical activity",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-338",
+    "question": "The timing, duration, and regularity of sleep patterns are _____.",
+    "answer": "Sleeping habits",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-339",
+    "question": "The likelihood of an unintentional fall because of personal and environmental conditions is _____.",
+    "answer": "Fall risk",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-340",
+    "question": "Regular financial payments that support a person after retirement are _____.",
+    "answer": "Pensions",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-341",
+    "question": "Exchanges of money, care, and emotional help between older and younger relatives are _____.",
+    "answer": "Intergenerational support",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-342",
+    "question": "Geographic and neighborhood-level variables incorporated into health analysis are _____.",
+    "answer": "Geospatial covariates",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-343",
+    "question": "Community facilities and services that support social well-being are _____.",
+    "answer": "Social infrastructure",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-344",
+    "question": "The network of institutions and facilities that provide continuing care is _____.",
+    "answer": "Long-term care infrastructure",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-345",
+    "question": "The timing and process of forming family partnerships and having children concern _____.",
+    "answer": "Family formation",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-346",
+    "question": "Feeling financially prepared before formalizing a partnership reflects _____.",
+    "answer": "Economic readiness",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-347",
+    "question": "Financial pressures that make formal marriage difficult are _____.",
+    "answer": "Financial constraints",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-348",
+    "question": "A pregnancy occurring before a legal marriage is _____.",
+    "answer": "Premarital pregnancy",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-349",
+    "question": "Social expectations about the behavior of women and men are _____.",
+    "answer": "Gender roles",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-350",
+    "question": "Shared expectations about acceptable behavior in a community are _____.",
+    "answer": "Social norms",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-351",
+    "question": "Faith-based expectations influencing beliefs about marriage are _____.",
+    "answer": "Religious norms",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-352",
+    "question": "Unequal influence over decisions between partners reflects _____.",
+    "answer": "Power relations",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-353",
+    "question": "The allocation of duties and obligations between partners involves _____.",
+    "answer": "Shared responsibilities",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-354",
+    "question": "The legal ability to own and claim assets involves _____.",
+    "answer": "Property rights",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-355",
+    "question": "Respecting participants' rights, avoiding harm, and protecting data are principles of _____.",
+    "answer": "Research ethics",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-356",
+    "question": "The researcher's reflection on how personal assumptions may shape interpretation is _____.",
+    "answer": "Researcher reflexivity",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-357",
+    "question": "Selecting research participants because they fit specified characteristics is _____.",
+    "answer": "Purposive sampling",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-358",
+    "question": "A qualitative approach collecting evidence through moderated group discussions is _____.",
+    "answer": "Focus-group research",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-359",
+    "question": "Stories that warn others about the possible harms of certain relationship choices are _____.",
+    "answer": "Cautionary tales",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-360",
+    "question": "Community beliefs about living together without marriage constitute _____.",
+    "answer": "Cohabitation norms",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-361",
+    "question": "An official classification of whether a person is married, single, or in another union is _____.",
+    "answer": "Marital status",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-362",
+    "question": "When a person enters marriage relative to other life events is their _____.",
+    "answer": "Marriage timing",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-363",
+    "question": "Recognition that families and partnerships take different forms is _____.",
+    "answer": "Family diversity",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-364",
+    "question": "Whether cultural or legal institutions accept a partnership concerns _____.",
+    "answer": "Union recognition",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-365",
+    "question": "Beliefs treating formal marriage as the preferred relationship arrangement express _____.",
+    "answer": "Marriage normativity",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-366",
+    "question": "The exchange of language and ideas through which social norms are reproduced is _____.",
+    "answer": "Social discourse",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-367",
+    "question": "Differences in the social environment of city and countryside households form a _____.",
+    "answer": "Rural-urban context",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-368",
+    "question": "Which Family Code article provides an exception to the marriage-license requirement for qualified long-cohabiting couples? — _____",
+    "answer": "Article 34",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "coach-verified"
+  },
+  {
+    "id": "coach-369",
+    "question": "Term mastery: What term is used for cohabitation as a short stage before marriage? — _____.",
+    "answer": "Prelude to marriage",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-370",
+    "question": "Term mastery: What term describes cohabitation when it competes with marriage for benefits and opportunities without legal commitment? — _____.",
+    "answer": "Competitor to marriage",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-371",
+    "question": "Term mastery: What bridges social structures and social events in the framework? — _____.",
+    "answer": "Social practices",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-372",
+    "question": "Term mastery: What practical family responsibility can cohabitation help partners share? — _____.",
+    "answer": "Child rearing",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-373",
+    "question": "Term mastery: What expression does Abalos use for cohabitation in developing-country patterns? — _____.",
+    "answer": "Poor man's marriage",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-374",
+    "question": "Term mastery: What shared experience was reported by both male and female cohabiting participants? — _____.",
+    "answer": "Sharing of responsibilities",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-375",
+    "question": "Term mastery: What was the main reason for difficulty accessing healthcare services? — _____.",
+    "answer": "Financial reasons",
+    "set": "Set 9",
+    "source": "15_LSAHP_Wave_2",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-376",
+    "question": "Term mastery: What future marriage option did some participants hope could reduce logistical burdens? — _____.",
+    "answer": "Mass weddings",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "source"
+  },
+  {
+    "id": "coach-377",
+    "question": "Term mastery: This is the highlight of a woman’s fertility — _____.",
+    "answer": "Ovulatory Phase",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-378",
+    "question": "Term mastery: Skills - Set your goals and aspirations in life — _____.",
+    "answer": "Life Planning Skills",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-379",
+    "question": "Term mastery: What is the major effect of teenage pregnancy? — _____.",
+    "answer": "Maternal death",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-380",
+    "question": "Term mastery: Examples of this are heterosexuals, homosexuals, and bisexuals — _____.",
+    "answer": "Sexual orientation",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-381",
+    "question": "Term mastery: Practical tips in being good and effective parent to adolescents — _____.",
+    "answer": "Show genuine love",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-382",
+    "question": "Term mastery: The larynx or voice box gets larger and sticks out at the front of the throat — _____.",
+    "answer": "Adam’s apple",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-383",
+    "question": "Term mastery: This issue pertains to the habitual or addictive use of alcohol and illegal drugs — _____.",
+    "answer": "Substance abuse",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-384",
+    "question": "Term mastery: Your capacity to manage stress and emotions is important in attaining your overall health and well-being — _____.",
+    "answer": "Stress Management Skills",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-385",
+    "question": "Term mastery: Symptoms: Some people experience flu-like symptoms, jaundice, and dark-colored urine; others experience no symptoms — _____.",
+    "answer": "Hepatitis B",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-386",
+    "question": "Term mastery: This aims to let adolescents appreciate the expected changes and tasks that they may experience during the adolescence period — _____.",
+    "answer": "Teen Track",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-387",
+    "question": "Term mastery: Many parents, however, are unable to engage their adolescent children into dialogue about sexuality concerns because of the following factors or barriers: — _____.",
+    "answer": "Unsupportive parenting style",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-388",
+    "question": "Term mastery: Pair of thin cutaneous folds that form part of the vulva, or external female genitalia. They function as protective structures that surround the clitoris, urinary orifice, and vaginal orifice — _____.",
+    "answer": "Labia minora",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-389",
+    "question": "Term mastery: This is the ability to think through situations adequately, weighing the advantages and disadvantages so as to be able to make appropriate decisions concerning other people or one's own situation — _____.",
+    "answer": "Critical Thinking Skills",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-390",
+    "question": "Term mastery: Your capacity to communicate with your parents and other significant persons in your life is important in developing your social skills especially in harnessing your relationship with your parents — _____.",
+    "answer": "Communication Skills",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-391",
+    "question": "At puberty, you become _____.",
+    "answer": "fertile and ready for reproduction",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-392",
+    "question": "The first day of the cycle is the _____.",
+    "answer": "first day of menstruation",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-393",
+    "question": "The Parent-Teen Talk is broken down into two major tracks – the _____.",
+    "answer": "Parent Track and the Teen Track",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-394",
+    "question": "Two parts of the brain – the _____ - start making more growth hormones and sex hormones.",
+    "answer": "hypothalamus and the pituitary gland",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-395",
+    "question": "A female is fertile only on _____ and these are only the days when she can become pregnant.",
+    "answer": "certain days of each menstrual cycle",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-396",
+    "question": "Term mastery: Women commonly feel nauseous during the first trimester; the nausea is sometimes called “_____.”.",
+    "answer": "morning sickness",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-397",
+    "question": "The _____ is the first facility from which the adolescents initially sought specific information or services.",
+    "answer": "Initiating Facility",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-398",
+    "question": "The “_____” offer longer or permanent protection against pregnancy. These methods offer no protection against STIs including HIV.",
+    "answer": "long acting and permanent methods",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-399",
+    "question": "Term mastery: _____ involves actions and attitude that treat persons as second-class or inferior based on sex. It specifically treats women as the weaker sex.",
+    "answer": "Marginalization and subordination",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-400",
+    "question": "_____ Adolescents Modules to provide comprehensive adolescent sexual and reproductive health information to young people as well as adults who have influence on their sexual behaviors.",
+    "answer": "Sexually Healthy and Personally Effective",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-401",
+    "question": "Which term is the kind of influence that makes you do things that have positive impact on yourself and to others. It makes you do things that can make you feel proud, make you feel good about yourself, make other people feel happy and proud. It pushes you to have positive behaviors that enables you to be a good person and to achieve your aspirations and potentials? — _____.",
+    "answer": "Positive peer pressure",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-402",
+    "question": "Term mastery: The _____ is the lower part of the uterus that extends to the top of vagina. The function of this is to allow flow of menstrual blood from the uterus into the vagina and direct the sperms into the uterus during intercourse.",
+    "answer": "cervix",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-403",
+    "question": "Term mastery: The _____ corresponds to the clitoris in the female. It may fill with blood and become hard, and erect in response to sexual urge. Its reproductive function is to deliver semen into the vagina. It also functions to excrete urine.",
+    "answer": "penis",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-404",
+    "question": "Term mastery: An _____ is caused by blood filing the spongy tissue in the penis as a result of sexual stimulation; lifting or straining; dreaming; being cold; wearing tight clothing; feeling fear or excitement; or having a full bladder on waking.",
+    "answer": "erection",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-405",
+    "question": "Term mastery: _____ gathers information that measures how well program activities are performed based on its intended outcomes and impact. It aims to measure the quality of program implementation and to assess coverage and its impact on the change in behaviors of adolescents.",
+    "answer": "Evaluation",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-406",
+    "question": "If the egg is not fertilized, the uterus sheds away the thick lining it has made to protect a fertilized egg along with some blood, body fluids, and the unfertilized egg. All of them flow through the cervix and then out of the vagina. This blood flow is called _____.",
+    "answer": "menstruation",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-407",
+    "question": "Term mastery: It signals the end of fertility — _____.",
+    "answer": "menopause",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-408",
+    "question": "Term mastery: Symptoms: Recurrent episodes of painful sores on genitals or anus — _____.",
+    "answer": "Herpes",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-409",
+    "question": "Term mastery: These are people whose gender identity differs from the sex they were assigned at birth — _____.",
+    "answer": "Transgender",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-410",
+    "question": "Term mastery: Wanting to be able to make own decisions, choose friends, plan activities, and make their own dreams — _____.",
+    "answer": "Independence",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-411",
+    "question": "Term mastery: Symptoms for Women: Painful sores on the genitalia; swollen lymph nodes on the groin. Women are often asymptomatic. Symptoms for Men: Painful sores on the genitalia; swollen lymph nodes on the groin — _____.",
+    "answer": "Chancroid",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-412",
+    "question": "Term mastery: The first time menstruation happens is called “_____.”.",
+    "answer": "menarche",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-413",
+    "question": "Term mastery: Pregnancy is divided into three periods of about three months each, called _____.",
+    "answer": "trimesters",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-414",
+    "question": "Term mastery: The World Health Organization recommends _____ without other food for the first six months of a baby’s life.",
+    "answer": "breastfeeding",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-415",
+    "question": "Term mastery: The first yellow-colored milk, called _____, is rich in nutrients and antibodies that protect the baby from diseases and infections. It also helps to clean the baby’s gut.",
+    "answer": "colostrum",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-416",
+    "question": "Term mastery: These methods regulate or stop ovulation and prevent pregnancy. These methods prevent ovulation and thicken cervical mucus, which helps block the sperm from reaching the egg. These methods do not protect against STIs — _____.",
+    "answer": "Hormonal methods",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-417",
+    "question": "Every stage of development (i.e. infancy, childhood, adolescence, adulthood, maturity) has specific challenges, goals, and tasks. These are called _____ that a person goes through and try to accomplish to be more prepared for the next stage of development. These also determine the patterns of behaviors of an individual within that specific development stage.",
+    "answer": "developmental tasks and expectations",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-418",
+    "question": "This law aims to ensure universal access to reproductive health services including adolescent sexual and reproductive health (ASRH) information and services The term is _____.",
+    "answer": "Responsible Parenthood and Reproductive Health Law",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-419",
+    "question": "Symptoms for Women: Most women are asymptomatic; abnormal vaginal discharge or burning sensation when urinating. Symptoms for Men: Men often experience discharge or burning when urinating. Some men have no symptoms The term is _____.",
+    "answer": "Gonorrhea",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-420",
+    "question": "Term mastery: A person that belongs to the same social group as another person or group; a friend who has a similar background such as profession, age and language, lives in the same geographical area, has similar social status, etc.; and someone who can integrate oneself — _____.",
+    "answer": "Peer",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-421",
+    "question": "These are thick-walled convoluted tubes that are continuous with the cauda epididymis and connects it to the prostatic urethra. These tube transports mature sperm to the urethra, the tube that carries urine or sperm to outside of the body, in preparation for ejaculation The term is _____.",
+    "answer": "vas deferens",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "cross-topic"
+  },
+  {
+    "id": "coach-422",
+    "question": "Term mastery: _____ involves sudden or rapid growth or change in the physical body of an adolescent.",
+    "answer": "Growth spurt",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-423",
+    "question": "Term mastery: Symptoms: Generally has no symptoms in its early stages. Usually leads to AIDS. People with AIDS may suffer various infections, cancers, and other life-threatening ailments — _____.",
+    "answer": "Human Immunodeficiency Virus",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-424",
+    "question": "Term mastery: _____ give people a chance to develop interpersonal skills, a chance for companionship and new experiences, and a chance to gradually get to know a potential romantic partner.",
+    "answer": "Courtship and dating",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-425",
+    "question": "Term mastery: _____ means asking for what you want or saying how you feel in an honest and respectful way that does not infringe on another person's rights or put the individual down.",
+    "answer": "Assertive Communication",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-426",
+    "question": "A birth-related injury creates an abnormal opening between the vagina and bladder or rectum. Which complication is this? — _____",
+    "answer": "obstetric fistula",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-427",
+    "question": "Which term is a period of transition from childhood to adulthood. It is marked by puberty. It is a time of rapid physical growth that brings about confusion, insecurities, and even fear? — _____.",
+    "answer": "Adolescence",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-428",
+    "question": "Term mastery: Our _____ is a product of what we are born with and our own unique life experiences that have shaped our attitudes, feelings, and values towards ourselves and towards other people.",
+    "answer": "sexuality",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-429",
+    "question": "The outer folds of skin that protect the more delicate structures of the vulva are the _____.",
+    "answer": "labia majora",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-430",
+    "question": "When the immune system becomes weak from HIV, the body can no longer fight off illness and may develop serious, often life-threatening, infections and cancers. This condition is known as _____.",
+    "answer": "Acquired Immune Deficiency Syndrome",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-431",
+    "question": "Term mastery: A _____ is an integrated and comprehensive facility that provides appropriate information, skills, and services to adolescents and young people. It is a one-stop-shop facility that aims to improve access of adolescents to appropriate information and services.",
+    "answer": "Teen Center",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-432",
+    "question": "Which paired male reproductive glands contribute fluid to semen from behind the bladder? — _____",
+    "answer": "seminal vesicles",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-433",
+    "question": "Term mastery: What term is used when cohabitation functions in place of marriage? — _____.",
+    "answer": "Alternative to marriage",
+    "set": "Set 9",
+    "source": "16_Nuptiality_Cohabitation",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-434",
+    "question": "Which term is an interest in “sexual objects or activities, or as a wish, or drive to seek out sexual objects or to engage in sexual activities? — _____.",
+    "answer": "Sexual desire",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-435",
+    "question": "Term mastery: The members of the ISDN are connected through a _____ which ensures the continuum of information and services needed by the adolescents.",
+    "answer": "referral system",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-436",
+    "question": "Identify the POPDEV term described as a type of migration that refers to the movement of people within the country (in-migration or out-migration) — — _____.",
+    "answer": "Internal Migration",
+    "set": "Set 9",
+    "source": "14_Demographic_Handbook",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-437",
+    "question": "The mandate to integrate _____ in formal and informal curriculum is to be fully implemented.",
+    "answer": "Comprehensive Sexuality Education",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-438",
+    "question": "Term mastery: The economic growth experienced by a country as a result of the change in the country’s population structure. It is the product of the demographic transition — _____.",
+    "answer": "Demographic Dividend",
+    "set": "Set 9",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-439",
+    "question": "Which coiled duct next to the testis stores and transports sperm? — _____",
+    "answer": "epididymis",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-440",
+    "question": "Which term is feeling good about ourselves and feeling that we are a worthwhile person. It is important because it shows ourselves how we view the way we are and the sense of our personal value. Thus, it affects the way we are and how we behave and relate with others? — _____.",
+    "answer": "Self-esteem",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-441",
+    "question": "Which external erectile organ of the vulva contains many sensory nerve endings? — _____",
+    "answer": "clitoris",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-442",
+    "question": "The single cell created when a sperm fertilizes an ovum is a _____.",
+    "answer": "zygote",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-443",
+    "question": "Term mastery: Deaths are the demographic process called _____.",
+    "answer": "Mortality",
+    "set": "Set 9",
+    "source": "02_Greenbook",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-444",
+    "question": "Term mastery: _____ signals the beginning of adolescence.",
+    "answer": "Puberty",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-445",
+    "question": "Term mastery: The main driver of population growth is _____.",
+    "answer": "fertility",
+    "set": "Set 9",
+    "source": "01_POPDEV_Plan",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-446",
+    "question": "Which term is the data already collected or produced by others? — _____.",
+    "answer": "Secondary data",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-447",
+    "question": "Which term is how one feels, looks at, and treats his/her own body. It may be positive or negative? — _____.",
+    "answer": "Body image",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-448",
+    "question": "Which term is an approach in promoting healthy and positive behaviors among adolescents through their peers? — _____.",
+    "answer": "Peer Education",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-449",
+    "question": "Term mastery: Examples of this are transgender and cisgender — _____.",
+    "answer": "Gender Identity",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  },
+  {
+    "id": "coach-450",
+    "question": "Which term is a quiet, comfortable feeling of total acceptance and love for yourself — as you are. It is respecting and valuing yourself as a worthwhile human being, honestly seeing your good and not-so-good qualities, and taking care of and nurturing yourself so you can become all that you are capable of being? — _____.",
+    "answer": "High self-esteem",
+    "set": "Set 9",
+    "source": "08_SHAPE",
+    "type": "fill",
+    "coach_kind": "second-context"
+  }
+]

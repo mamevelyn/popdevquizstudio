@@ -62,6 +62,17 @@
               <div class="float-star star1">✦</div><div class="float-star star2">✧</div>
             </div>
           </div>
+          <section class="coach-feature" aria-label="Coach's term mastery sets">
+            <div class="coach-feature-heading">
+              <div><span class="coach-eyebrow">WEDNESDAY CONTEST INTENSIVE</span><h2>Coach's 450-Term Challenge</h2><p>Three focused, advanced identification sets. Pure concepts and terms, with instant answer review and saved scores.</p></div>
+              <span class="coach-count">3 × 150</span>
+            </div>
+            <div class="coach-set-grid">
+              <button class="coach-set-button" data-coach-set="Set 7"><span class="coach-set-index">SET 7</span><strong>Demography &amp; Policy</strong><small>Population concepts, indicators, governance, migration and development</small><span class="coach-cta">Practice 150 terms →</span></button>
+              <button class="coach-set-button" data-coach-set="Set 8"><span class="coach-set-index">SET 8</span><strong>Adolescent &amp; Reproductive Health</strong><small>SHAPE, relationships, body systems, choices and preventive health</small><span class="coach-cta">Practice 150 terms →</span></button>
+              <button class="coach-set-button" data-coach-set="Set 9"><span class="coach-set-index">SET 9</span><strong>Advanced POPDEV Mastery</strong><small>Ageing, nuptiality, cohabitation, field research and integrated review</small><span class="coach-cta">Practice 150 terms →</span></button>
+            </div>
+          </section>
           <div class="stats-grid">
             <div class="stat-card"><div class="stat-icon pale-blue">▤</div><div><small>TOTAL QUESTIONS</small><div class="stat-number" id="stat-total">—</div></div><span class="stat-foot">Ready to practice</span></div>
             <div class="stat-card"><div class="stat-icon pale-green">◫</div><div><small>REVIEWER SETS</small><div class="stat-number" id="stat-sets">—</div></div><span class="stat-foot">Organized by set</span></div>
@@ -97,7 +108,7 @@
             <div class="panel setup-panel">
               <div class="panel-mini-title">01 / QUIZ SETTINGS</div><h2>Set up your quiz</h2>
               <label class="field-label" for="practice-set">Question set</label><select id="practice-set"></select>
-              <label class="field-label" for="practice-count">Number of questions</label><input type="number" min="1" max="850" id="practice-count" value="20">
+              <label class="field-label" for="practice-count">Number of questions</label><input type="number" min="1" max="1300" id="practice-count" value="20">
               <label class="field-label" for="practice-timer">Time limit</label><select id="practice-timer"><option value="0">No time limit</option><option value="5">5 minutes</option><option value="10">10 minutes</option><option value="15" selected>15 minutes</option><option value="30">30 minutes</option><option value="60">60 minutes</option></select>
               <label class="switch-row"><span><strong>Shuffle questions</strong><small>Different order each time</small></span><input type="checkbox" id="practice-shuffle" checked><span class="switch"></span></label>
               <button class="btn btn-primary btn-wide" id="start-quiz">Start Quiz →</button>
@@ -187,7 +198,7 @@
     <div class="modal-head"><div><span class="section-kicker">BULK IMPORT</span><h2>Bring in your questions</h2></div><button class="close-modal" type="button" data-close="import-dialog" aria-label="Close">×</button></div>
     <p class="modal-copy">Import your existing QuizCreator Excel file or a simple Question / Answer spreadsheet. Questions beyond item 20 are read automatically.</p>
     <label class="upload-zone" id="upload-zone" for="file-upload"><span class="upload-icon">↥</span><strong>Choose an Excel, CSV, or JSON file</strong><small>.xlsx, QuizCreator .xls, .csv, .tsv, or a Quiz Studio backup</small><input id="file-upload" type="file" accept=".xlsx,.xls,.csv,.tsv,.json"></label>
-    <div class="import-formats"><span>SUPPORTED</span><span class="format-pill">QuizCreator 20-row template</span><span class="format-pill">Question / Answer columns</span><span class="format-pill">850-item answer key</span></div>
+    <div class="import-formats"><span>SUPPORTED</span><span class="format-pill">QuizCreator 20-row template</span><span class="format-pill">Question / Answer columns</span><span class="format-pill">1,300-item reviewer bank</span></div>
     <label class="checkbox-line"><input type="checkbox" id="import-replace"><span>Replace my current question bank with the imported questions</span></label>
     <div class="import-feedback" id="import-feedback" aria-live="polite"></div>
     <div class="modal-actions"><button class="btn btn-ghost" type="button" data-close="import-dialog">Close</button></div>

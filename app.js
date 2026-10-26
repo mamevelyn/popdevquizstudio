@@ -3,6 +3,7 @@
   const BANK_KEY = 'popdev_studio_bank_v1';
   const HISTORY_KEY = 'popdev_studio_history_v1';
   const THEME_KEY = 'popdev_studio_theme_v1';
+  const COACH_MIGRATION_KEY = 'popdev_studio_coach_sets_20261026_v1';
   const THEMES = {
     ocean: { ink: '#17364b', accent: '#328c95', gold: '#f6c466' },
     forest: { ink: '#1f4338', accent: '#478c70', gold: '#f0cf7d' },
@@ -20,7 +21,26 @@
   const formatDate = s => new Date(s).toLocaleString('en-PH', { year: 'numeric', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
   const validQ = q => q && typeof q.question === 'string' && q.question.trim() && typeof q.answer === 'string' && q.answer.trim();
   const sanitiseQ = q => ({ id: String(q.id || newId()), question: String(q.question).trim(), answer: String(q.answer).trim(), type: q.type === 'mcq' && Array.isArray(q.options) && q.options.length === 4 ? 'mcq' : 'fill', options: Array.isArray(q.options) ? q.options.slice(0,4).map(v=>String(v)) : [], set: String(q.set || 'Imported').trim().slice(0, 90), source: String(q.source || '').trim().slice(0, 120) });
-  let bank = (readStorage(BANK_KEY, null) || seed).filter(validQ).map(sanitiseQ);
+  const storedBank = readStorage(BANK_KEY, null);
+  let bank = (Array.isArray(storedBank) ? storedBank : seed).filter(validQ).map(sanitiseQ);
+  // Existing visitors already have a browser-local bank. Add the new official
+  // Sets 7–9 exactly once, while retaining their edits, custom questions,
+  // original Sets 1–6, scores, and attempts without replacing storage.
+  if (Array.isArray(storedBank) && !readStorage(COACH_MIGRATION_KEY, false)) {
+    const knownIds = new Set(bank.map(q => q.id));
+    const knownQA = new Set(bank.map(q => normalize(q.question) + '|' + normalize(q.answer)));
+    for (const item of seed) {
+      if (!String(item.id || '').startsWith('coach-') || !validQ(item)) continue;
+      const key = normalize(item.question) + '|' + normalize(item.answer);
+      if (knownIds.has(item.id) || knownQA.has(key)) continue;
+      bank.push(sanitiseQ(item));
+      knownIds.add(item.id); knownQA.add(key);
+    }
+    try {
+      localStorage.setItem(BANK_KEY, JSON.stringify(bank));
+      localStorage.setItem(COACH_MIGRATION_KEY, 'true');
+    } catch { /* The new sets remain available in memory this session. */ }
+  }
   let history = readStorage(HISTORY_KEY, []);
   if (!Array.isArray(history)) history = [];
   let theme = Object.assign({ name: 'ocean', customAccent: '', title: 'POPDEV Knowledge Challenge' }, readStorage(THEME_KEY, {}));
@@ -442,6 +462,14 @@
     el('import-dialog').showModal();
   }
   function wire() {
+    document.querySelectorAll('[data-coach-set]').forEach(button=>button.addEventListener('click',()=>{
+      go('practice');
+      el('practice-set').value = button.dataset.coachSet;
+      el('practice-count').value = 150;
+      // A full 150-item mastery round should not end after the default 15 minutes.
+      el('practice-timer').value = '0';
+      showAvailability();
+    }));
     document.querySelectorAll('[data-route]').forEach(n=>n.addEventListener('click',()=>go(n.dataset.route)));
     document.querySelectorAll('[data-go]').forEach(n=>n.addEventListener('click',()=>go(n.dataset.go)));
     ['top-import','hero-import'].forEach(id=>el(id).addEventListener('click',openImport));
